@@ -1,0 +1,1527 @@
+Name PredominantDegree HighestDegree Region Geography AdmissionRate AverageCost Expenditure
+Alabama A & M University Bachelor's Graduate Southeast Mid-size City 0.8989 18888 7459
+University of Alabama at Birmingham Bachelor's Graduate Southeast Mid-size City 0.8673 19990 17208
+University of Alabama in Huntsville Bachelor's Graduate Southeast Mid-size City 0.8062 20306 9352
+Alabama State University Bachelor's Graduate Southeast Mid-size City 0.5125 17400 7393
+The University of Alabama Bachelor's Graduate Southeast Small City 0.5655 26717 9817
+Auburn University at Montgomery Bachelor's Graduate Southeast Mid-size City 0.8371 16556 6817
+Auburn University Bachelor's Graduate Southeast Small City 0.8274 23788 11324
+Birmingham Southern College Bachelor's Bachelor's Southeast Mid-size City 0.6422 44512 9990
+Huntingdon College Bachelor's Bachelor's Southeast Mid-size City 0.6279 31433 6571
+Jacksonville State University Bachelor's Graduate Southeast Small City 0.8326 19202 6949
+Judson College Bachelor's Bachelor's Southeast Remote Rural 0.7388 27815 9293
+University of West Alabama Bachelor's Graduate Southeast Remote Rural 0.9957 17959 8898
+Marion Military Institute Associate Associate Southeast Remote Rural 0.6034 16520 6128
+University of Mobile Bachelor's Graduate Southeast Fringe Rural 0.7125 30108 6715
+University of Montevallo Bachelor's Graduate Southeast Large Suburb 0.8729 20209 7719
+University of North Alabama Bachelor's Graduate Southeast Small City 0.8092 15058 6814
+Oakwood University Bachelor's Graduate Southeast Mid-size City 0.3435 34705 7656
+Samford University Bachelor's Graduate Southeast Large Suburb 0.7697 38835 14054
+University of South Alabama Bachelor's Graduate Southeast Mid-size City 0.8604 17125 10325
+Spring Hill College Bachelor's Graduate Southeast Mid-size City 0.4627 43325 6999
+Southeastern Bible College Bachelor's Bachelor's Southeast Large Suburb 0.9615 19127 4314
+Stillman College Bachelor's Bachelor's Southeast Small City 0.43 24744 4330
+Troy University Bachelor's Graduate Southeast Fringe Rural 0.6821 16877 5260
+Tuskegee University Bachelor's Graduate Southeast Distant Town 0.3511 32853 13235
+Alaska Pacific University Bachelor's Graduate Far West Large City 0.3745 42925 10753
+Arizona State University-Tempe Bachelor's Graduate Southwest Mid-size City 0.8023 21960 9080
+University of Arizona Bachelor's Graduate Southwest Large City 0.7692 23905 11382
+Embry-Riddle Aeronautical University-Prescott Bachelor's Graduate Southwest Fringe Rural 0.7898 45228 18433
+Northern Arizona University Bachelor's Graduate Southwest Small City 0.9137 22771 6893
+Prescott College Bachelor's Graduate Southwest Small City 0.7293 40206 6669
+Arizona Christian University Bachelor's Bachelor's Southwest Large City 0.6076 34444 5656
+University of Arkansas at Little Rock Bachelor's Graduate Southeast Mid-size City 0.5274 19894 7292
+Lyon College Bachelor's Bachelor's Southeast Remote Town 0.5898 33355 11002
+University of Arkansas Bachelor's Graduate Southeast Small City 0.5858 19917 8349
+University of Arkansas at Pine Bluff Bachelor's Graduate Southeast Small City 0.277 15414 7154
+Arkansas State University-Main Campus Bachelor's Graduate Southeast Small City 0.7551 18809 5002
+Arkansas Tech University Bachelor's Graduate Southeast Remote Town 0.8503 16126 4550
+University of Central Arkansas Bachelor's Graduate Southeast Small City 0.8997 17899 6851
+Central Baptist College Bachelor's Bachelor's Southeast Small City 0.5407 20386 5075
+Harding University Bachelor's Graduate Southeast Distant Town 0.7628 25475 9503
+Henderson State University Bachelor's Graduate Southeast Distant Town 0.6221 18033 6124
+Hendrix College Bachelor's Graduate Southeast Small City 0.8039 50172 12018
+John Brown University Bachelor's Graduate Southeast Distant Town 0.6982 33326 7040
+Ouachita Baptist University Bachelor's Bachelor's Southeast Distant Town 0.7011 31473 8912
+University of the Ozarks Bachelor's Bachelor's Southeast Remote Town 0.6136 34532 10651
+University of Arkansas Community College-Morrilton Associate Associate Southeast Distant Town 0.5838 11593 3700
+Williams Baptist College Bachelor's Bachelor's Southeast Distant Rural 0.6798 22330 5339
+Southern Arkansas University Main Campus Bachelor's Graduate Southeast Remote Town 0.6081 17738 6317
+University of Arkansas-Fort Smith Bachelor's Bachelor's Southeast Small City 0.5736 14335 5165
+Azusa Pacific University Bachelor's Graduate Far West Large Suburb 0.7985 44021 10343
+Biola University Bachelor's Graduate Far West Large Suburb 0.7286 44573 10435
+California Baptist University Bachelor's Graduate Far West Large City 0.788 39026 8008
+California Institute of Technology Bachelor's Graduate Far West Mid-size City 0.1055 56382 92854
+California Lutheran University Bachelor's Graduate Far West Mid-size City 0.4802 48630 8149
+California Polytechnic State University-San Luis Obispo Bachelor's Graduate Far West Small Suburb 0.3123 23867 9907
+California State University-Bakersfield Bachelor's Graduate Far West Large City 0.6626 18061 6087
+California State University-Stanislaus Bachelor's Graduate Far West Small Suburb 0.7215 17161 8274
+California State University-San Bernardino Bachelor's Graduate Far West Mid-size City 0.5831 17030 6585
+California State Polytechnic University-Pomona Bachelor's Graduate Far West Large Suburb 0.5218 19402 7355
+California State University-Chico Bachelor's Graduate Far West Small City 0.7161 22926 6800
+California State University-Dominguez Hills Bachelor's Graduate Far West Small City 0.5747 12957 6807
+California State University-Fresno Bachelor's Graduate Far West Large City 0.5815 16377 6446
+California State University-Fullerton Bachelor's Graduate Far West Large Suburb 0.4579 16663 7685
+California State University-East Bay Bachelor's Graduate Far West Mid-size City 0.6872 20676 6978
+California State University-Long Beach Bachelor's Graduate Far West Large City 0.3082 18085 7422
+California State University-Los Angeles Bachelor's Graduate Far West Large City 0.6752 14747 6569
+California State University-Northridge Bachelor's Graduate Far West Large City 0.4624 20899 6952
+California State University-Sacramento Bachelor's Graduate Far West Large City 0.6968 19380 7281
+University of California-Berkeley Bachelor's Graduate Far West Mid-size City 0.18 32715 18072
+University of California-Davis Bachelor's Graduate Far West Small Suburb 0.4521 31803 21365
+University of California-Irvine Bachelor's Graduate Far West Mid-size City 0.4239 28980 17853
+University of California-Los Angeles Bachelor's Graduate Far West Large City 0.2199 31474 38489
+University of California-Riverside Bachelor's Graduate Far West Large City 0.62 29787 10473
+University of California-San Diego Bachelor's Graduate Far West Large City 0.375 29751 22757
+University of California-Santa Barbara Bachelor's Graduate Far West Mid-size Suburb 0.4444 31913 10571
+University of California-Santa Cruz Bachelor's Graduate Far West Small City 0.5991 33208 8338
+California Maritime Academy Bachelor's Graduate Far West Mid-size City 0.748 22223 13827
+Chapman University Bachelor's Graduate Far West Mid-size City 0.4471 57020 13977
+Concordia University-Irvine Bachelor's Graduate Far West Mid-size City 0.9119 41233 5628
+San Diego Christian College Bachelor's Graduate Far West Large Suburb 0.492 37696 4972
+Claremont McKenna College Bachelor's Graduate Far West Large Suburb 0.1173 60065 26268
+Dominican University of California Bachelor's Graduate Far West Small City 0.7752 56165 14357
+Fresno Pacific University Bachelor's Graduate Far West Large City 0.7844 33973 5520
+Harvey Mudd College Bachelor's Bachelor's Far West Large Suburb 0.1817 60613 27810
+Holy Names University Bachelor's Graduate Far West Large City 0.5668 46994 7958
+Humboldt State University Bachelor's Graduate Far West Remote Town 0.8018 23113 8294
+Life Pacific College Bachelor's Graduate Far West Large Suburb 0.7482 24492 3393
+University of La Verne Bachelor's Graduate Far West Large Suburb 0.3895 45305 7629
+La Sierra University Bachelor's Graduate Far West Large City 0.4677 39842 10375
+The Master's College and Seminary Bachelor's Graduate Far West Large Suburb 0.6137 40815 7582
+Loyola Marymount University Bachelor's Graduate Far West Large City 0.5412 55432 14921
+Menlo College Bachelor's Bachelor's Far West Large Suburb 0.3705 51649 8329
+Mills College Bachelor's Graduate Far West Large City 0.6798 54668 15321
+Mount St Mary's College Bachelor's Graduate Far West Large City 0.7409 47905 8160
+Notre Dame de Namur University Bachelor's Graduate Far West Large Suburb 0.872 47115 6654
+Occidental College Bachelor's Graduate Far West Large City 0.4239 60655 16465
+Otis College of Art and Design Bachelor's Graduate Far West Large City 0.4628 52397 16683
+Hope International University Bachelor's Graduate Far West Large Suburb 0.4681 40303 5886
+Pacific Union College Bachelor's Graduate Far West Fringe Rural 0.5055 38800 9586
+University of the Pacific Bachelor's Graduate Far West Large City 0.7265 52406 17606
+Point Loma Nazarene University Bachelor's Graduate Far West Large City 0.6654 43060 9224
+Pomona College Bachelor's Bachelor's Far West Large Suburb 0.1392 57014 34930
+University of Redlands Bachelor's Graduate Far West Small City 0.672 55268 9159
+San Diego State University Bachelor's Graduate Far West Large City 0.3121 20252 6797
+University of San Diego Bachelor's Graduate Far West Large City 0.4885 56346 13166
+San Francisco Art Institute Bachelor's Graduate Far West Large City 0.8269 55809 9575
+San Francisco State University Bachelor's Graduate Far West Large City 0.6379 22267 7919
+University of San Francisco Bachelor's Graduate Far West Large City 0.6129 55812 15041
+William Jessup University Bachelor's Graduate Far West Fringe Rural 0.6929 34811 6607
+San Jose State University Bachelor's Graduate Far West Large City 0.6347 21160 8070
+Santa Clara University Bachelor's Graduate Far West Mid-size City 0.5122 57213 10783
+Scripps College Bachelor's Graduate Far West Large Suburb 0.357 58888 28314
+Simpson University Bachelor's Graduate Far West Small City 0.555 33889 6136
+Saint Mary's College of California Bachelor's Graduate Far West Fringe Rural 0.6947 56500 12462
+Sonoma State University Bachelor's Graduate Far West Large Suburb 0.8186 23675 7361
+Vanguard University of Southern California Bachelor's Graduate Far West Mid-size City 0.6977 41952 6369
+Southern California Institute of Architecture Bachelor's Graduate Far West Large City 0.8667 50373 13100
+University of Southern California Bachelor's Graduate Far West Large City 0.1984 59787 42077
+Thomas Aquinas College Bachelor's Bachelor's Far West Distant Rural 0.7921 35056 11147
+Westmont College Bachelor's Graduate Far West Mid-size Suburb 0.7016 51760 14814
+Whittier College Bachelor's Graduate Far West Large Suburb 0.6325 49920 11366
+Woodbury University Bachelor's Graduate Far West Large City 0.5575 42465 12067
+Adams State University Bachelor's Graduate Rocky Mountains Remote Town 0.526 17759 7996
+University of Colorado Denver Bachelor's Graduate Rocky Mountains Large City 0.7587 18822 25568
+University of Colorado Colorado Springs Bachelor's Graduate Rocky Mountains Large City 0.91 16707 6820
+University of Colorado Boulder Bachelor's Graduate Rocky Mountains Small City 0.8771 27854 13949
+Colorado College Bachelor's Graduate Rocky Mountains Large City 0.2228 54200 20972
+Colorado School of Mines Bachelor's Graduate Rocky Mountains Large Suburb 0.3743 29091 13498
+Colorado State University-Fort Collins Bachelor's Graduate Rocky Mountains Mid-size City 0.7743 21823 10417
+University of Denver Bachelor's Graduate Rocky Mountains Large City 0.7673 53614 14113
+Fort Lewis College Bachelor's Bachelor's Rocky Mountains Remote Town 0.875 19565 6117
+Colorado Mesa University Bachelor's Graduate Rocky Mountains Small City 0.8212 18077 5323
+Metropolitan State University of Denver Bachelor's Graduate Rocky Mountains Large City 0.7116 14034 4898
+University of Northern Colorado Bachelor's Graduate Rocky Mountains Small City 0.6957 19105 7571
+Regis University Bachelor's Graduate Rocky Mountains Large City 0.6986 43058 6188
+Colorado State University-Pueblo Bachelor's Graduate Rocky Mountains Mid-size City 0.9434 18007 5368
+Western State Colorado University Bachelor's Graduate Rocky Mountains Remote Town 0.932 18875 7812
+University of Bridgeport Bachelor's Graduate New England Mid-size City 0.6385 45640 7757
+Central Connecticut State University Bachelor's Graduate New England Large Suburb 0.6413 20372 8990
+University of Connecticut Bachelor's Graduate New England Large Suburb 0.5366 25786 20908
+Eastern Connecticut State University Bachelor's Graduate New England Fringe Town 0.6453 22633 8554
+University of Hartford Bachelor's Graduate New England Mid-size City 0.6173 47368 12566
+University of New Haven Bachelor's Graduate New England Large Suburb 0.7441 48280 8635
+Post University Bachelor's Graduate New England Mid-size Suburb 0.8302 40723 3142
+Quinnipiac University Bachelor's Graduate New England Large Suburb 0.6722 53476 13065
+University of Saint Joseph Bachelor's Graduate New England Small City 0.857 42885 10997
+Southern Connecticut State University Bachelor's Graduate New England Mid-size City 0.7542 18628 10676
+Trinity College Bachelor's Graduate New England Mid-size City 0.3178 59865 23403
+Wesleyan University Bachelor's Graduate New England Small City 0.2092 61167 24442
+Yale University Bachelor's Graduate New England Mid-size City 0.0705 59320 106214
+Delaware State University Bachelor's Graduate Mid-Atlantic Small City 0.4168 20506 10853
+University of Delaware Bachelor's Graduate Mid-Atlantic Large Suburb 0.6468 21748 17186
+Wesley College Bachelor's Graduate Mid-Atlantic Small City 0.625 35199 6971
+American University Bachelor's Graduate Mid-Atlantic Large City 0.4312 55159 12700
+Catholic University of America Bachelor's Graduate Mid-Atlantic Large City 0.6007 54023 15799
+Gallaudet University Bachelor's Graduate Mid-Atlantic Large City 0.6558 29852 33092
+George Washington University Bachelor's Graduate Mid-Atlantic Large City 0.3308 58925 19705
+Georgetown University Bachelor's Graduate Mid-Atlantic Large City 0.1697 59900 29282
+Howard University Bachelor's Graduate Mid-Atlantic Large City 0.493 40129 22191
+The Baptist College of Florida Bachelor's Bachelor's Southeast Distant Town 0.4257 15748 5781
+Barry University Bachelor's Graduate Southeast Large Suburb 0.4678 41019 10646
+Bethune-Cookman University Bachelor's Graduate Southeast Small City 0.666 27017 5978
+Lynn University Bachelor's Graduate Southeast Small City 0.776 48735 9124
+University of Central Florida Bachelor's Graduate Southeast Large Suburb 0.4894 19815 5403
+Clearwater Christian College Bachelor's Graduate Southeast Mid-size City 0.7009 28463 5545
+Eckerd College Bachelor's Bachelor's Southeast Mid-size City 0.7104 49802 11371
+Edward Waters College Bachelor's Bachelor's Southeast Large City 0.2732 22929 3304
+Embry-Riddle Aeronautical University-Daytona Beach Bachelor's Graduate Southeast Small City 0.7405 45648 16386
+Florida Agricultural and Mechanical University Bachelor's Graduate Southeast Mid-size City 0.45 19191 7958
+Florida Atlantic University Bachelor's Graduate Southeast Small City 0.4773 19131 6131
+Flagler College-St Augustine Bachelor's Bachelor's Southeast Small Suburb 0.4987 28305 5796
+Florida College Associate Bachelor's Southeast Large Suburb 0.5875 25690 8775
+Adventist University of Health Sciences Bachelor's Graduate Southeast Mid-size City 0.1336 21358 8382
+Florida Institute of Technology Bachelor's Graduate Southeast Small City 0.6045 52490 10719
+Florida International University Bachelor's Graduate Southeast Large Suburb 0.4304 18426 6702
+Florida Southern College Bachelor's Graduate Southeast Small City 0.4989 38413 6857
+Florida State University Bachelor's Graduate Southeast Mid-size City 0.5681 20774 8596
+University of Florida Bachelor's Graduate Southeast Mid-size City 0.4655 20456 15167
+Jacksonville University Bachelor's Graduate Southeast Large City 0.4737 42459 8135
+University of Miami Bachelor's Graduate Southeast Large Suburb 0.4044 57700 28251
+University of North Florida Bachelor's Graduate Southeast Large City 0.5343 19415 5323
+Northwood University-Florida Bachelor's Graduate Southeast Mid-size City 0.5102 33485 6736
+Nova Southeastern University Bachelor's Graduate Southeast Large Suburb 0.5746 40783 10921
+Palm Beach Atlantic University Bachelor's Graduate Southeast Mid-size City 0.8412 37535 7805
+Rollins College Bachelor's Graduate Southeast Large Suburb 0.5889 56309 12311
+University of South Florida-Main Campus Bachelor's Graduate Southeast Large City 0.4524 19299 8322
+St Thomas University Bachelor's Graduate Southeast Large Suburb 0.4567 37090 7162
+Stetson University Bachelor's Graduate Southeast Mid-size Suburb 0.5925 49939 11448
+Southeastern University Bachelor's Graduate Southeast Small City 0.5932 30333 5231
+The University of Tampa Bachelor's Graduate Southeast Large City 0.5221 37714 6103
+Trinity Baptist College Bachelor's Graduate Southeast Large City 0.4847 16752 2670
+Warner University Bachelor's Graduate Southeast Fringe Rural 0.3378 28555 3166
+Webber International University Bachelor's Graduate Southeast Fringe Town 0.6377 34949 3018
+The University of West Florida Bachelor's Graduate Southeast Small City 0.4808 18158 5710
+Abraham Baldwin Agricultural College Associate Bachelor's Southeast Distant Town 0.709 14080 5121
+Albany State University Bachelor's Graduate Southeast Small City 0.1992 19025 7089
+Andrew College Associate Associate Southeast Distant Town 0.4013 26050 5501
+Armstrong Atlantic State University Bachelor's Graduate Southeast Mid-size City 0.6998 19802 5392
+Point University Bachelor's Bachelor's Southeast Distant Town 0.5353 27497 4477
+Clark Atlanta University Bachelor's Graduate Southeast Large City 0.568 34201 8191
+Berry College Bachelor's Graduate Southeast Small Suburb 0.6032 40965 12857
+Brenau University Bachelor's Graduate Southeast Small City 0.7829 34107 6630
+Brewton-Parker College Bachelor's Bachelor's Southeast Distant Rural 0.5137 22499 4183
+College of Coastal Georgia Associate Bachelor's Southeast Small City 0.8221 15501 6365
+Clayton State University Bachelor's Graduate Southeast Large Suburb 0.477 17487 5310
+Columbus State University Bachelor's Graduate Southeast Mid-size City 0.5543 17029 7030
+Covenant College Bachelor's Graduate Southeast Large Suburb 0.5704 38510 8344
+Emory University Bachelor's Graduate Southeast Large Suburb 0.2633 58180 33796
+Georgia Institute of Technology-Main Campus Bachelor's Graduate Southeast Large City 0.5493 21980 13939
+Georgia Southwestern State University Bachelor's Graduate Southeast Distant Town 0.6803 17839 5645
+Georgia College and State University Bachelor's Graduate Southeast Distant Town 0.6798 23052 7476
+Georgia Southern University Bachelor's Graduate Southeast Remote Town 0.52 21513 6183
+Georgia State University Bachelor's Graduate Southeast Large City 0.5466 23124 7273
+University of Georgia Bachelor's Graduate Southeast Mid-size City 0.5608 21162 8478
+Gordon State College Associate Bachelor's Southeast Distant Town 0.4529 13091 4155
+Kennesaw State University Bachelor's Graduate Southeast Large Suburb 0.5654 20630 6179
+LaGrange College Bachelor's Graduate Southeast Distant Town 0.5837 37305 12133
+Mercer University Bachelor's Graduate Southeast Small City 0.69 46382 10646
+Morehouse College Bachelor's Bachelor's Southeast Large City 0.6684 45451 11151
+Oglethorpe University Bachelor's Graduate Southeast Large Suburb 0.5576 43689 8645
+Paine College Bachelor's Bachelor's Southeast Mid-size City 0.4377 21516 8877
+Piedmont College Bachelor's Graduate Southeast Distant Town 0.6118 32031 6381
+Reinhardt University Bachelor's Graduate Southeast Fringe Rural 0.514 30734 6378
+Savannah College of Art and Design Bachelor's Graduate Southeast Mid-size City 0.6547 49179 10302
+Savannah State University Bachelor's Graduate Southeast Mid-size City 0.8299 15531 5129
+Shorter University Bachelor's Graduate Southeast Small City 0.6807 30642 5532
+Spelman College Bachelor's Bachelor's Southeast Large City 0.3802 41635 11178
+Southern Polytechnic State University Bachelor's Graduate Southeast Small City 0.7798 16546 6169
+Toccoa Falls College Bachelor's Bachelor's Southeast Fringe Rural 0.494 30178 4794
+Truett-McConnell College Bachelor's Bachelor's Southeast Fringe Rural 0.8064 26484 3853
+Valdosta State University Bachelor's Graduate Southeast Small City 0.5522 20958 5873
+Wesleyan College Bachelor's Graduate Southeast Small City 0.4339 30878 11411
+University of West Georgia Bachelor's Graduate Southeast Fringe Town 0.5385 18879 6178
+Young Harris College Bachelor's Bachelor's Southeast Remote Rural 0.5365 34007 8802
+Chaminade University of Honolulu Bachelor's Graduate Far West Large City 0.8359 30801 8093
+University of Hawaii at Hilo Bachelor's Graduate Far West Remote Town 0.752 15284 12842
+University of Hawaii at Manoa Bachelor's Graduate Far West Large City 0.8009 18491 17768
+Hawaii Pacific University Bachelor's Graduate Far West Large City 0.6411 29762 6203
+University of Hawaii-West Oahu Bachelor's Bachelor's Far West Large Suburb 0.7643 9874 9141
+Boise Bible College Bachelor's Bachelor's Rocky Mountains Large Suburb 1 23036 2285
+Boise State University Bachelor's Graduate Rocky Mountains Mid-size City 0.7766 18227 6777
+University of Idaho Bachelor's Graduate Rocky Mountains Fringe Rural 0.6565 19700 10938
+The College of Idaho Bachelor's Graduate Rocky Mountains Mid-size Suburb 0.905 34555 7465
+Lewis-Clark State College Bachelor's Bachelor's Rocky Mountains Small City 0.9977 16184 6049
+Northwest Nazarene University Bachelor's Graduate Rocky Mountains Mid-size Suburb 0.617 34498 6722
+Brigham Young University-Idaho Bachelor's Bachelor's Rocky Mountains Distant Town 0.9963 10438 4198
+School of the Art Institute of Chicago Bachelor's Graduate Great Lakes Large City 0.7184 55551 14724
+Aurora University Bachelor's Graduate Great Lakes Large Suburb 0.7595 31145 4697
+Blackburn College Bachelor's Bachelor's Great Lakes Distant Town 0.6799 24126 6984
+Bradley University Bachelor's Graduate Great Lakes Mid-size City 0.6694 40330 14790
+Chicago State University Bachelor's Graduate Great Lakes Large City 0.2865 18472 14592
+University of Chicago Bachelor's Graduate Great Lakes Large City 0.0881 62425 74864
+Concordia University-Chicago Bachelor's Graduate Great Lakes Large Suburb 0.5441 34774 8334
+DePaul University Bachelor's Graduate Great Lakes Large City 0.5987 46375 11612
+Eastern Illinois University Bachelor's Graduate Great Lakes Remote Town 0.6191 23346 12690
+Elmhurst College Bachelor's Graduate Great Lakes Large Suburb 0.718 41472 8096
+Eureka College Bachelor's Bachelor's Great Lakes Fringe Town 0.6781 28799 7252
+Greenville College Bachelor's Graduate Great Lakes Distant Town 0.657 33675 6925
+Hebrew Theological College Bachelor's Graduate Great Lakes Small City 0.9299 33966 7564
+University of Illinois at Chicago Bachelor's Graduate Great Lakes Large City 0.714 25248 25773
+Benedictine University Bachelor's Graduate Great Lakes Large Suburb 0.695 35481 5558
+University of Illinois at Urbana-Champaign Bachelor's Graduate Great Lakes Small City 0.6239 28564 13674
+Illinois Wesleyan University Bachelor's Bachelor's Great Lakes Small City 0.5838 48522 15537
+Illinois College Bachelor's Bachelor's Great Lakes Distant Town 0.6129 36829 9488
+Illinois Institute of Technology Bachelor's Graduate Great Lakes Large City 0.5697 48940 12231
+Illinois State University Bachelor's Graduate Great Lakes Mid-size Suburb 0.6892 25416 9950
+Judson University Bachelor's Graduate Great Lakes Mid-size City 0.7069 37635 8737
+Lake Forest College Bachelor's Graduate Great Lakes Large Suburb 0.5727 49743 10173
+Lewis University Bachelor's Graduate Great Lakes Large Suburb 0.5587 34079 8122
+Lincoln Christian University Bachelor's Graduate Great Lakes Distant Town 0.6875 25309 5975
+Lincoln College Associate Bachelor's Great Lakes Distant Town 0.8747 28702 4147
+Loyola University Chicago Bachelor's Graduate Great Lakes Large City 0.914 47727 11462
+MacMurray College Bachelor's Bachelor's Great Lakes Distant Town 0.7488 30843 6297
+McKendree University Bachelor's Graduate Great Lakes Large Suburb 0.6289 37004 5614
+Millikin University Bachelor's Graduate Great Lakes Small City 0.5512 39576 8378
+Monmouth College Bachelor's Bachelor's Great Lakes Remote Town 0.6431 40578 9453
+North Central College Bachelor's Graduate Great Lakes Mid-size City 0.6365 41218 8407
+North Park University Bachelor's Graduate Great Lakes Large City 0.5234 31065 6660
+Northern Illinois University Bachelor's Graduate Great Lakes Small Suburb 0.5613 27621 12208
+Northwestern University Bachelor's Graduate Great Lakes Small City 0.1532 60729 34438
+Northeastern Illinois University Bachelor's Graduate Great Lakes Large City 0.5981 22273 11837
+Olivet Nazarene University Bachelor's Graduate Great Lakes Small Suburb 0.8196 39125 4740
+Quincy University Bachelor's Graduate Great Lakes Remote Town 0.8859 36948 5006
+Rockford University Bachelor's Graduate Great Lakes Mid-size City 0.4097 37253 5854
+Roosevelt University Bachelor's Graduate Great Lakes Large City 0.7878 43650 10188
+Dominican University Bachelor's Graduate Great Lakes Large Suburb 0.5997 36307 9940
+University of St Francis Bachelor's Graduate Great Lakes Large Suburb 0.5141 36226 7644
+Saint Xavier University Bachelor's Graduate Great Lakes Large City 0.5054 35284 8567
+University of Illinois at Springfield Bachelor's Graduate Great Lakes Mid-size City 0.5977 21385 10685
+Southern Illinois University-Carbondale Bachelor's Graduate Great Lakes Small City 0.7887 24234 16344
+Southern Illinois University-Edwardsville Bachelor's Graduate Great Lakes Large Suburb 0.8419 21137 12487
+Trinity Christian College Bachelor's Bachelor's Great Lakes Large Suburb 0.9022 33611 10993
+Trinity International University-Illinois Bachelor's Graduate Great Lakes Large Suburb 0.9372 37929 8735
+Western Illinois University Bachelor's Graduate Great Lakes Remote Town 0.5931 24375 11290
+Wheaton College Bachelor's Graduate Great Lakes Large Suburb 0.6871 41394 14865
+Anderson University Bachelor's Graduate Great Lakes Small City 0.5545 37937 8062
+Ball State University Bachelor's Graduate Great Lakes Small City 0.6054 21101 9700
+Bethel College-Indiana Bachelor's Graduate Great Lakes Small City 0.7158 33617 7756
+Butler University Bachelor's Graduate Great Lakes Large City 0.661 47010 12922
+Calumet College of Saint Joseph Bachelor's Graduate Great Lakes Large Suburb 0.4 19530 6949
+DePauw University Bachelor's Bachelor's Great Lakes Distant Town 0.6121 51050 18330
+Earlham College Bachelor's Graduate Great Lakes Distant Town 0.637 50930 19527
+University of Evansville Bachelor's Graduate Great Lakes Mid-size City 0.8409 42674 10365
+Franklin College Bachelor's Bachelor's Great Lakes Large Suburb 0.6002 37962 8715
+Goshen College Bachelor's Graduate Great Lakes Small City 0.5506 37707 10729
+Grace College and Theological Seminary Bachelor's Graduate Great Lakes Distant Town 0.7884 32506 5818
+Hanover College Bachelor's Bachelor's Great Lakes Distant Town 0.6673 42198 13801
+Holy Cross College Bachelor's Bachelor's Great Lakes Large Suburb 0.7231 33660 7233
+Huntington University Bachelor's Graduate Great Lakes Distant Town 0.9732 34764 8241
+Indiana University-Purdue University-Fort Wayne Bachelor's Graduate Great Lakes Large City 0.8309 18837 6082
+Indiana University-Purdue University-Indianapolis Bachelor's Graduate Great Lakes Large City 0.6958 20846 15311
+University of Indianapolis Bachelor's Graduate Great Lakes Large City 0.8443 36158 8024
+Indiana Institute of Technology Bachelor's Graduate Great Lakes Large City 0.7225 35911 3479
+University of Southern Indiana Bachelor's Graduate Great Lakes Mid-size Suburb 0.6934 17996 5112
+Indiana State University Bachelor's Graduate Great Lakes Small City 0.8306 19549 7430
+Indiana University-Kokomo Bachelor's Graduate Great Lakes Small City 0.7355 15874 5515
+Indiana University-South Bend Bachelor's Graduate Great Lakes Mid-size City 0.7003 17377 7174
+Indiana University-Bloomington Bachelor's Graduate Great Lakes Small City 0.7217 23043 13471
+Indiana University-Northwest Bachelor's Graduate Great Lakes Small City 0.7625 18092 6481
+Indiana University-Southeast Bachelor's Graduate Great Lakes Large Suburb 0.7945 16753 6512
+Indiana University-East Bachelor's Graduate Great Lakes Fringe Rural 0.5381 15334 5273
+Manchester University Bachelor's Graduate Great Lakes Distant Town 0.7116 38505 5778
+Marian University Bachelor's Graduate Great Lakes Large City 0.5795 39369 8781
+Indiana Wesleyan University Bachelor's Graduate Great Lakes Distant Town 0.9515 33770 3954
+University of Notre Dame Bachelor's Graduate Great Lakes Large Suburb 0.223 57805 26795
+Oakland City University Bachelor's Graduate Great Lakes Distant Town 0.7285 31104 4833
+Purdue University-North Central Campus Bachelor's Graduate Great Lakes Fringe Rural 0.7218 13713 4976
+Rose-Hulman Institute of Technology Bachelor's Graduate Great Lakes Small City 0.5622 55413 20879
+University of Saint Francis-Fort Wayne Bachelor's Graduate Great Lakes Large City 0.5362 31516 7513
+Saint Josephs College Bachelor's Graduate Great Lakes Distant Town 0.6419 37135 6339
+Saint Mary-of-the-Woods College Bachelor's Graduate Great Lakes Fringe Rural 0.9754 40349 10418
+Saint Mary's College Bachelor's Bachelor's Great Lakes Large Suburb 0.8568 45920 14363
+Taylor University Bachelor's Graduate Great Lakes Distant Town 0.876 38845 9780
+Trine University Bachelor's Graduate Great Lakes Distant Town 0.7157 40679 5574
+Valparaiso University Bachelor's Graduate Great Lakes Large Suburb 0.7969 43185 10489
+Buena Vista University Bachelor's Graduate Great Plains Remote Town 0.6955 39011 7412
+Central College Bachelor's Bachelor's Great Plains Distant Town 0.658 43491 11755
+Clarke University Bachelor's Graduate Great Plains Small City 0.7752 38062 8045
+Coe College Bachelor's Graduate Great Plains Mid-size City 0.6171 45387 11825
+Cornell College Bachelor's Bachelor's Great Plains Fringe Town 0.6411 46135 9227
+Dordt College Bachelor's Graduate Great Plains Remote Town 0.7542 37080 8671
+Drake University Bachelor's Graduate Great Plains Mid-size City 0.6595 42477 9273
+University of Dubuque Bachelor's Graduate Great Plains Small City 0.7742 34206 6971
+Faith Baptist Bible College and Theological Seminary Bachelor's Graduate Great Plains Large Suburb 0.6693 24930 6813
+Graceland University-Lamoni Bachelor's Graduate Great Plains Remote Rural 0.5018 34494 8769
+Grand Vis University Bachelor's Graduate Great Plains Mid-size City 0.9542 31761 6141
+Grinnell College Bachelor's Bachelor's Great Plains Remote Town 0.3506 53318 23516
+Iowa State University Bachelor's Graduate Great Plains Small City 0.8252 18820 9170
+Iowa Wesleyan College Bachelor's Bachelor's Great Plains Remote Town 0.6012 36102 10008
+University of Iowa Bachelor's Graduate Great Plains Small City 0.8023 21832 13911
+Loras College Bachelor's Graduate Great Plains Small City 0.6903 37622 6903
+Luther College Bachelor's Bachelor's Great Plains Remote Town 0.7212 46548 11373
+Morningside College Bachelor's Graduate Great Plains Small City 0.5337 36280 5367
+Mount Mercy University Bachelor's Graduate Great Plains Mid-size City 0.6845 37183 7292
+University of Northern Iowa Bachelor's Graduate Great Plains Small City 0.8331 19233 9117
+Northwestern College Bachelor's Bachelor's Great Plains Distant Town 0.7609 37884 8464
+Saint Ambrose University Bachelor's Graduate Great Plains Mid-size City 0.9617 38189 8935
+Simpson College Bachelor's Graduate Great Plains Fringe Town 0.8802 40186 7720
+Upper Iowa University Bachelor's Graduate Great Plains Remote Rural 0.5818 35190 4234
+Waldorf College Bachelor's Bachelor's Great Plains Remote Town 0.5067 30300 5407
+Wartburg College Bachelor's Bachelor's Great Plains Distant Town 0.7765 43312 9391
+William Penn University Bachelor's Graduate Great Plains Remote Town 0.5766 33081 4768
+Baker University Bachelor's Graduate Great Plains Fringe Town 0.869 37485 4981
+Benedictine College Bachelor's Graduate Great Plains Distant Town 0.6057 36805 5931
+Bethany College Bachelor's Bachelor's Great Plains Remote Town 0.5882 34042 5421
+Bethel College-North Newton Bachelor's Bachelor's Great Plains Distant Town 0.644 33781 7880
+Central Christian College of Kansas Bachelor's Bachelor's Great Plains Remote Town 0.5045 28170 2036
+Emporia State University Bachelor's Graduate Great Plains Remote Town 0.6069 15612 7795
+Fort Hays State University Bachelor's Graduate Great Plains Remote Town 0.8917 15395 5150
+Barclay College Bachelor's Graduate Great Plains Remote Rural 0.5285 24990 3955
+Friends University Bachelor's Graduate Great Plains Large City 0.5862 33388 5303
+University of Kansas Bachelor's Graduate Great Plains Small City 0.9228 21971 16874
+Newman University Bachelor's Graduate Great Plains Large City 0.4472 33524 4504
+Kansas Wesleyan University Bachelor's Graduate Great Plains Remote Town 0.537 34402 4988
+Manhattan Christian College Bachelor's Bachelor's Great Plains Small City 0.5988 25439 4388
+McPherson College Bachelor's Bachelor's Great Plains Remote Town 0.866 34534 7906
+MidAmerica Nazarene University Bachelor's Graduate Great Plains Large Suburb 0.7223 32388 5381
+Ottawa University-Ottawa Bachelor's Graduate Great Plains Distant Town 0.9888 35017 2570
+Pittsburg State University Bachelor's Graduate Great Plains Distant Town 0.7898 15211 6350
+University of Saint Mary Bachelor's Graduate Great Plains Fringe Town 0.4707 31515 7202
+Southwestern College Bachelor's Graduate Great Plains Distant Town 0.8968 36472 5122
+Sterling College Bachelor's Bachelor's Great Plains Distant Rural 0.4405 30722 4858
+Tabor College Bachelor's Graduate Great Plains Remote Town 0.735 35960 5268
+Wichita State University Bachelor's Graduate Great Plains Large City 0.9576 14764 6594
+Alice Lloyd College Bachelor's Bachelor's Southeast Remote Rural 0.4502 19450 4532
+Asbury University Bachelor's Graduate Southeast Fringe Town 0.6573 33966 8335
+Bellarmine University Bachelor's Graduate Southeast Large City 0.9478 47609 8456
+Berea College Bachelor's Bachelor's Southeast Distant Town 0.3401 30396 15067
+Brescia University Bachelor's Graduate Southeast Small City 0.45 27219 7085
+Campbellsville University Bachelor's Graduate Southeast Remote Town 0.6844 31545 5444
+Centre College Bachelor's Bachelor's Southeast Distant Town 0.6857 46400 15873
+University of the Cumberlands Bachelor's Graduate Southeast Remote Town 0.7127 30993 4050
+Eastern Kentucky University Bachelor's Graduate Southeast Distant Town 0.6002 17801 8413
+Georgetown College Bachelor's Graduate Southeast Fringe Town 0.8219 42036 7813
+Kentucky State University Bachelor's Graduate Southeast Distant Town 0.3774 18387 7431
+Kentucky Wesleyan College Bachelor's Bachelor's Southeast Small City 0.671 29725 5489
+University of Kentucky Bachelor's Graduate Southeast Large City 0.6861 22420 10793
+Kentucky Christian University Bachelor's Graduate Southeast Distant Town 0.5136 29246 4538
+University of Louisville Bachelor's Graduate Southeast Large City 0.7112 21922 15806
+Midway College Bachelor's Graduate Southeast Distant Rural 0.5381 33132 6789
+Morehead State University Bachelor's Graduate Southeast Remote Town 0.8449 17805 6849
+Murray State University Bachelor's Graduate Southeast Remote Town 0.8217 16397 7703
+Northern Kentucky University Bachelor's Graduate Southeast Large Suburb 0.467 14603 7303
+University of Pikeville Bachelor's Graduate Southeast Remote Town 1 31005 6567
+Spalding University Bachelor's Graduate Southeast Large City 0.8108 31021 6502
+Thomas More College Bachelor's Graduate Southeast Large Suburb 0.8775 36843 6156
+Transylvania University Bachelor's Bachelor's Southeast Large City 0.9615 41374 9869
+Union College Bachelor's Graduate Southeast Remote Town 0.7416 31769 5609
+Western Kentucky University Bachelor's Graduate Southeast Small City 0.9232 16538 7807
+Centenary College of Louisiana Bachelor's Graduate Southeast Mid-size City 0.6597 40578 11545
+Dillard University Bachelor's Bachelor's Southeast Large City 0.3544 25343 12462
+Grambling State University Bachelor's Graduate Southeast Distant Town 0.4363 20881 4912
+Louisiana State University-Alexandria Bachelor's Bachelor's Southeast Fringe Rural 0.6074 14276 7400
+Louisiana State University and Agricultural & Mechanical College Bachelor's Graduate Southeast Fringe Rural 0.7623 20422 9914
+Louisiana State University-Shreveport Bachelor's Graduate Southeast Mid-size City 0.8349 15066 5804
+Louisiana College Bachelor's Graduate Southeast Small Suburb 0.7423 22940 7234
+Louisiana Tech University Bachelor's Graduate Southeast Distant Town 0.6744 16983 5668
+Loyola University New Orleans Bachelor's Graduate Southeast Large City 0.8707 46676 11302
+McNeese State University Bachelor's Graduate Southeast Small City 0.6151 14823 4932
+University of New Orleans Bachelor's Graduate Southeast Large City 0.5036 16212 8079
+Nicholls State University Bachelor's Graduate Southeast Small City 0.8694 16071 5318
+University of Louisiana at Monroe Bachelor's Graduate Southeast Small City 0.7724 14925 5777
+Northwestern State University of Louisiana Bachelor's Graduate Southeast Remote Town 0.84 16605 5075
+Our Lady of the Lake College Associate Graduate Southeast Mid-size City 0.6615 21335 6680
+Southeastern Louisiana University Bachelor's Graduate Southeast Small City 0.448 15729 5391
+Southern University and A & M College Bachelor's Graduate Southeast Mid-size City 0.359 17928 6369
+Southern University at New Orleans Bachelor's Graduate Southeast Large City 0.4888 10889 10302
+University of Louisiana at Lafayette Bachelor's Graduate Southeast Mid-size City 0.593 15342 4963
+Tulane University of Louisiana Bachelor's Graduate Southeast Large City 0.2643 58904 21299
+Xavier University of Louisiana Bachelor's Graduate Southeast Large City 0.5443 27550 8326
+Bowdoin College Bachelor's Bachelor's New England Fringe Town 0.1495 58200 26266
+Colby College Bachelor's Bachelor's New England Remote Town 0.2604 57300 20179
+Husson University Bachelor's Graduate New England Small City 0.7989 25019 6274
+University of Maine at Fort Kent Bachelor's Bachelor's New England Remote Rural 0.6293 17314 6771
+University of Maine at Machias Bachelor's Bachelor's New England Remote Rural 0.854 17380 7440
+University of Maine Bachelor's Graduate New England Small Suburb 0.8106 22461 10058
+Maine Maritime Academy Bachelor's Graduate New England Distant Rural 0.6536 23673 9613
+University of New England Bachelor's Graduate New England Mid-size Suburb 0.8584 47931 9692
+University of Southern Maine Bachelor's Graduate New England Small City 0.828 22290 9616
+Thomas College Bachelor's Graduate New England Fringe Rural 0.7244 33792 3782
+Bowie State University Bachelor's Graduate Mid-Atlantic Large Suburb 0.5176 18581 6996
+Capitol College Bachelor's Graduate Mid-Atlantic Large Suburb 0.5903 30826 4888
+Frostburg State University Bachelor's Graduate Mid-Atlantic Small Suburb 0.5945 19454 6658
+Hood College Bachelor's Graduate Mid-Atlantic Small City 0.8102 45230 8787
+Johns Hopkins University Bachelor's Graduate Mid-Atlantic Large City 0.1813 58980 75570
+Loyola University Maryland Bachelor's Graduate Mid-Atlantic Large City 0.58 56736 11584
+University of Maryland-Baltimore County Bachelor's Graduate Mid-Atlantic Large Suburb 0.6315 22024 9852
+University of Maryland Eastern Shore Bachelor's Graduate Mid-Atlantic Fringe Town 0.5502 20587 8823
+Morgan State University Bachelor's Graduate Mid-Atlantic Large City 0.5757 20108 9025
+Mount St Mary's University Bachelor's Graduate Mid-Atlantic Fringe Town 0.6741 45896 8691
+Notre Dame of Maryland University Bachelor's Graduate Mid-Atlantic Large City 0.4964 41871 10035
+Salisbury University Bachelor's Graduate Mid-Atlantic Small Suburb 0.5494 20916 6654
+St Mary's College of Maryland Bachelor's Graduate Mid-Atlantic Small Suburb 0.7204 29174 13542
+Towson University Bachelor's Graduate Mid-Atlantic Small City 0.6034 21596 5906
+Stevenson University Bachelor's Graduate Mid-Atlantic Fringe Rural 0.5959 38785 8585
+Washington College Bachelor's Graduate Mid-Atlantic Distant Town 0.6655 52243 12924
+McDaniel College Bachelor's Graduate Mid-Atlantic Small Suburb 0.7587 45866 8839
+American International College Bachelor's Graduate New England Mid-size City 0.6779 40803 4924
+Amherst College Bachelor's Bachelor's New England Large Suburb 0.1428 59060 23275
+Babson College Bachelor's Graduate New England Large Suburb 0.2821 58450 13960
+Bay Path College Bachelor's Graduate New England Large Suburb 0.576 40447 6148
+Becker College Bachelor's Bachelor's New England Mid-size City 0.6255 44041 5832
+Bentley University Bachelor's Graduate New England Small City 0.4379 54806 13149
+Boston College Bachelor's Graduate New England Small City 0.3222 58639 18302
+Boston University Bachelor's Graduate New England Large City 0.4561 59036 27281
+Brandeis University Bachelor's Graduate New England Small City 0.3704 58850 14309
+Bridgewater State University Bachelor's Graduate New England Large Suburb 0.786 19303 5426
+Curry College Bachelor's Graduate New England Large Suburb 0.6692 47519 9905
+Dean College Associate Bachelor's New England Large Suburb 0.6835 46673 7527
+Emerson College Bachelor's Graduate New England Large City 0.4798 51158 9283
+Emmanuel College Bachelor's Graduate New England Large City 0.6049 49487 7555
+Endicott College Bachelor's Graduate New England Large Suburb 0.7165 44177 5860
+Fitchburg State University Bachelor's Graduate New England Mid-size Suburb 0.7211 17686 7938
+Framingham State University Bachelor's Graduate New England Small City 0.5167 21402 5080
+Gordon College Bachelor's Graduate New England Large Suburb 0.4133 43140 9906
+Harvard University Bachelor's Graduate New England Mid-size City 0.0584 57950 47083
+Lasell College Bachelor's Graduate New England Small City 0.7614 43854 6324
+Lesley University Bachelor's Graduate New England Mid-size City 0.6749 47788 9092
+University of Massachusetts-Lowell Bachelor's Graduate New England Large Suburb 0.6397 22861 10446
+University of Massachusetts-Amherst Bachelor's Graduate New England Large Suburb 0.6294 25665 12988
+MCPHS University Bachelor's Graduate New England Large City 0.8921 43966 9840
+Massachusetts College of Art and Design Bachelor's Graduate New England Large City 0.6982 25384 11176
+Massachusetts Institute of Technology Bachelor's Graduate New England Mid-size City 0.0815 57010 58223
+Massachusetts Maritime Academy Bachelor's Graduate New England Mid-size Suburb 0.7726 22420 9178
+Mount Ida College Bachelor's Graduate New England Small City 0.6065 41565 8163
+Nichols College Bachelor's Graduate New England Large Suburb 0.8047 44886 4681
+Massachusetts College of Liberal Arts Bachelor's Graduate New England Fringe Town 0.672 20025 8508
+Northeastern University Bachelor's Graduate New England Large City 0.3231 55914 13078
+College of Our Lady of the Elms Bachelor's Graduate New England Large Suburb 0.7492 40802 6539
+Regis College Bachelor's Graduate New England Large Suburb 0.7243 47432 7977
+Salem State University Bachelor's Graduate New England Large Suburb 0.6929 20601 7761
+Simmons College Bachelor's Graduate New England Large City 0.4897 51093 12373
+Springfield College Bachelor's Graduate New England Mid-size City 0.6992 44829 10324
+University of Massachusetts-Dartmouth Bachelor's Graduate New England Mid-size Suburb 0.7213 23763 10528
+Stonehill College Bachelor's Bachelor's New England Large Suburb 0.7091 50677 12896
+Suffolk University Bachelor's Graduate New England Large City 0.825 45280 9244
+Tufts University Bachelor's Graduate New England Large Suburb 0.1884 58752 21026
+Wellesley College Bachelor's Bachelor's New England Large Suburb 0.2911 57164 32790
+Wentworth Institute of Technology Bachelor's Graduate New England Large City 0.5761 43850 8790
+Western New England University Bachelor's Graduate New England Mid-size City 0.8151 45850 9876
+Westfield State University Bachelor's Graduate New England Large Suburb 0.7487 19468 7042
+Wheelock College Bachelor's Graduate New England Large City 0.7318 45591 13033
+Williams College Bachelor's Graduate New England Fringe Town 0.1702 59412 39164
+Worcester State University Bachelor's Graduate New England Mid-size City 0.6062 18494 6536
+Adrian College Bachelor's Bachelor's Great Lakes Distant Town 0.5628 40199 7091
+Albion College Bachelor's Bachelor's Great Lakes Fringe Town 0.5639 45690 11574
+Alma College Bachelor's Bachelor's Great Lakes Distant Town 0.6791 43157 9213
+Andrews University Bachelor's Graduate Great Lakes Fringe Town 0.3751 33653 11640
+Aquinas College Bachelor's Graduate Great Lakes Mid-size City 0.7135 34593 6032
+Calvin College Bachelor's Graduate Great Lakes Mid-size City 0.6975 39013 13845
+Central Michigan University Bachelor's Graduate Great Lakes Distant Town 0.6304 21523 8249
+Cleary University Bachelor's Graduate Great Lakes Mid-size City 0.7263 17823 4903
+College for Creative Studies Bachelor's Graduate Great Lakes Large City 0.486 46095 10845
+University of Detroit Mercy Bachelor's Graduate Great Lakes Large City 0.6147 48027 14080
+Eastern Michigan University Bachelor's Graduate Great Lakes Large Suburb 0.6398 18905 8307
+Ferris State University Bachelor's Graduate Great Lakes Remote Town 0.759 21498 8696
+Kettering University Bachelor's Graduate Great Lakes Mid-size City 0.6159 49303 11438
+Cornerstone University Bachelor's Graduate Great Lakes Mid-size City 0.6807 33912 6292
+Grand Valley State University Bachelor's Graduate Great Lakes Large Suburb 0.826 21512 7728
+Hope College Bachelor's Bachelor's Great Lakes Small City 0.7253 38593 9281
+Kalamazoo College Bachelor's Bachelor's Great Lakes Small City 0.6689 48547 14477
+Lake Superior State University Bachelor's Graduate Great Lakes Remote Town 0.9183 19571 7640
+Lawrence Technological University Bachelor's Graduate Great Lakes Small City 0.4365 39890 10272
+Madonna University Bachelor's Graduate Great Lakes Small City 0.6125 22629 7282
+Marygrove College Bachelor's Graduate Great Lakes Large City 0.9378 25733 8504
+Rochester College Bachelor's Graduate Great Lakes Large Suburb 0.6567 26399 5507
+University of Michigan-Ann Arbor Bachelor's Graduate Great Lakes Mid-size City 0.3326 25760 22051
+Michigan State University Bachelor's Graduate Great Lakes Small City 0.6865 23740 14386
+Michigan Technological University Bachelor's Graduate Great Lakes Remote Town 0.7659 24724 11415
+University of Michigan-Dearborn Bachelor's Graduate Great Lakes Small City 0.6284 15831 9628
+University of Michigan-Flint Bachelor's Graduate Great Lakes Mid-size City 0.7809 16731 7620
+Northern Michigan University Bachelor's Graduate Great Lakes Remote Town 0.7313 18466 6506
+Northwood University-Michigan Bachelor's Graduate Great Lakes Small City 0.6538 32803 5977
+Oakland University Bachelor's Graduate Great Lakes Large Suburb 0.66 19198 7570
+Olivet College Bachelor's Graduate Great Lakes Distant Rural 0.5148 31515 5069
+Kuyper College Bachelor's Graduate Great Lakes Large Suburb 0.6842 26213 9926
+Saginaw Valley State University Bachelor's Graduate Great Lakes Fringe Rural 0.7865 17876 6129
+Siena Heights University Bachelor's Graduate Great Lakes Distant Town 0.6765 31980 5261
+Spring Arbor University Bachelor's Graduate Great Lakes Small Suburb 0.6505 32709 6679
+Finlandia University Bachelor's Bachelor's Great Lakes Remote Town 0.5883 29377 7809
+Wayne State University Bachelor's Graduate Great Lakes Large City 0.7624 20199 13146
+Western Michigan University Bachelor's Graduate Great Lakes Small City 0.8285 22483 9354
+Augsburg College Bachelor's Graduate Great Plains Large City 0.6086 42531 9476
+Bemidji State University Bachelor's Graduate Great Plains Remote Town 0.6678 18166 5452
+Bethany Lutheran College Bachelor's Bachelor's Great Plains Small City 0.7458 32531 10189
+Bethel University Bachelor's Graduate Great Plains Large Suburb 0.9485 42692 9233
+Carleton College Bachelor's Bachelor's Great Plains Distant Town 0.2095 58275 26533
+Concordia College at Moorhead Bachelor's Graduate Great Plains Mid-size Suburb 0.7998 39803 10209
+Concordia University-Saint Paul Bachelor's Graduate Great Plains Large City 0.5239 40267 5381
+Martin Luther College Bachelor's Graduate Great Plains Distant Town 0.9617 20740 6768
+Gustavus Adolphus College Bachelor's Bachelor's Great Plains Fringe Town 0.6322 48422 14254
+Hamline University Bachelor's Graduate Great Plains Large City 0.6557 43433 7717
+Macalester College Bachelor's Bachelor's Great Plains Large City 0.3416 55393 17781
+Minnesota State University-Mankato Bachelor's Graduate Great Plains Small City 0.6555 17578 5706
+University of Minnesota-Twin Cities Bachelor's Graduate Great Plains Large City 0.4442 24278 13003
+University of Minnesota-Crookston Bachelor's Bachelor's Great Plains Distant Town 0.6916 21549 5804
+Minneapolis College of Art and Design Bachelor's Graduate Great Plains Large City 0.5895 41935 12814
+University of Minnesota-Duluth Bachelor's Graduate Great Plains Small City 0.7822 22796 6299
+University of Minnesota-Morris Bachelor's Bachelor's Great Plains Remote Town 0.5764 22853 8451
+Minnesota State University-Moorhead Bachelor's Graduate Great Plains Mid-size Suburb 0.8911 18028 6745
+North Central University Bachelor's Bachelor's Great Plains Large City 0.9521 28800 5608
+University of Northwestern-St Paul Bachelor's Graduate Great Plains Large Suburb 0.6915 37803 7118
+Oak Hills Christian College Bachelor's Bachelor's Great Plains Remote Town 0.5873 25300 7682
+College of Saint Benedict Bachelor's Bachelor's Great Plains Mid-size Suburb 0.7554 47734 10965
+Saint Cloud State University Bachelor's Graduate Great Plains Small City 0.8691 17892 6521
+Saint Johns University Bachelor's Graduate Great Plains Fringe Rural 0.7516 46397 12673
+Saint Mary's University of Minnesota Bachelor's Graduate Great Plains Distant Town 0.7485 38470 5196
+St Olaf College Bachelor's Bachelor's Great Plains Distant Town 0.5919 50550 16054
+Crown College Bachelor's Graduate Great Plains Fringe Rural 0.55 34574 3243
+The College of Saint Scholastica Bachelor's Graduate Great Plains Small City 0.7265 40685 7878
+University of St Thomas Bachelor's Graduate Great Plains Large City 0.8617 48421 12539
+St Catherine University Bachelor's Graduate Great Plains Large City 0.6089 43356 9805
+Southwest Minnesota State University Bachelor's Graduate Great Plains Remote Town 0.6546 19109 5187
+Winona State University Bachelor's Graduate Great Plains Distant Town 0.6075 20449 6161
+Alcorn State University Bachelor's Graduate Southeast Remote Rural 0.8291 20330 7261
+Belhaven University Bachelor's Graduate Southeast Mid-size City 0.4842 33375 4341
+Blue Mountain College Bachelor's Graduate Southeast Distant Rural 0.5573 16926 6650
+Delta State University Bachelor's Graduate Southeast Remote Town 0.8941 17749 7987
+Jackson State University Bachelor's Graduate Southeast Mid-size City 0.6464 18724 8323
+Millsaps College Bachelor's Graduate Southeast Mid-size City 0.4745 44435 13004
+University of Mississippi Bachelor's Graduate Southeast Remote Town 0.5936 21526 9350
+Mississippi University for Women Bachelor's Graduate Southeast Remote Town 0.4349 15935 6017
+Mississippi Valley State University Bachelor's Graduate Southeast Remote Town 0.2272 17758 8408
+Mississippi College Bachelor's Graduate Southeast Large Suburb 0.673 25976 8024
+Mississippi State University Bachelor's Graduate Southeast Remote Town 0.6482 20796 6989
+Pearl River Community College Associate Associate Southeast Remote Rural 0.8566 5285 8104
+Rust College Bachelor's Bachelor's Southeast Distant Town 0.1386 14466 4684
+University of Southern Mississippi Bachelor's Graduate Southeast Small City 0.6631 18781 7858
+Tougaloo College Bachelor's Bachelor's Southeast Mid-size City 0.3551 20179 5739
+William Carey University Bachelor's Graduate Southeast Small City 0.4877 23962 6338
+Avila University Bachelor's Graduate Great Plains Large City 0.6108 34898 6943
+Calvary Bible College and Theological Seminary Bachelor's Graduate Great Plains Large City 0.8696 18781 5698
+Central Methodist University-College of Liberal Arts and Sciences Bachelor's Bachelor's Great Plains Distant Town 0.6506 32000 9279
+University of Central Missouri Bachelor's Graduate Great Plains Distant Town 0.8083 18355 7801
+Cottey College Associate Bachelor's Great Plains Remote Town 0.7063 26065 19770
+Culver-Stockton College Bachelor's Bachelor's Great Plains Remote Rural 0.5926 33741 6916
+Drury University Bachelor's Graduate Great Plains Mid-size City 0.8095 32556 6799
+Evangel University Bachelor's Graduate Great Plains Mid-size City 0.6425 30988 6543
+Fontbonne University Bachelor's Graduate Great Plains Large Suburb 0.6524 30833 8770
+Hannibal-LaGrange University Bachelor's Graduate Great Plains Remote Town 0.6814 27560 4224
+Kansas City Art Institute Bachelor's Bachelor's Great Plains Large City 0.643 45824 9820
+Lindenwood University Bachelor's Graduate Great Plains Small City 0.6629 30193 3942
+Maryville University of Saint Louis Bachelor's Graduate Great Plains Large Suburb 0.7611 37968 6897
+Missouri Baptist University Bachelor's Graduate Great Plains Large Suburb 0.6095 30542 4293
+Missouri Southern State University Bachelor's Graduate Great Plains Small City 0.9728 14143 5819
+Missouri Valley College Bachelor's Graduate Great Plains Remote Town 0.2218 28754 3545
+University of Missouri-Columbia Bachelor's Graduate Great Plains Mid-size City 0.7861 22387 10752
+University of Missouri-Kansas City Bachelor's Graduate Great Plains Large City 0.33 23437 15048
+Missouri University of Science and Technology Bachelor's Graduate Great Plains Remote Town 0.8215 22102 13510
+University of Missouri-St Louis Bachelor's Graduate Great Plains Large Suburb 0.7419 22474 8703
+Truman State University Bachelor's Graduate Great Plains Remote Town 0.7219 19689 8626
+Northwest Missouri State University Bachelor's Graduate Great Plains Remote Town 0.7241 17005 7623
+Rockhurst University Bachelor's Graduate Great Plains Large City 0.7543 40582 7167
+Saint Louis University Bachelor's Graduate Great Plains Large City 0.6443 52413 16641
+Saint Louis Christian College Bachelor's Bachelor's Great Plains Large Suburb 0.9886 28581 6254
+Southwest Baptist University Bachelor's Graduate Great Plains Distant Town 0.9022 28948 5310
+Stephens College Bachelor's Graduate Great Plains Mid-size City 0.6756 41309 8833
+Southeast Missouri State University Bachelor's Graduate Great Plains Small City 0.8546 17093 6354
+Missouri State University-Springfield Bachelor's Graduate Great Plains Mid-size City 0.851 19117 6697
+Washington University in St Louis Bachelor's Graduate Great Plains Large Suburb 0.1555 62594 97613
+Webster University Bachelor's Graduate Great Plains Large Suburb 0.5806 37363 6648
+Westminster College Bachelor's Bachelor's Great Plains Distant Town 0.719 33354 5656
+William Jewell College Bachelor's Bachelor's Great Plains Large Suburb 0.5778 42688 9378
+William Woods University Bachelor's Graduate Great Plains Distant Town 0.7514 33016 6016
+Carroll College Bachelor's Bachelor's Rocky Mountains Remote Town 0.53 38575 7125
+Montana Tech of the University of Montana Bachelor's Graduate Rocky Mountains Remote Town 0.8891 16434 9014
+Montana State University Bachelor's Graduate Rocky Mountains Remote Town 0.8449 18486 7209
+The University of Montana Bachelor's Graduate Rocky Mountains Small City 0.9423 17440 7041
+Montana State University-Northern Bachelor's Graduate Rocky Mountains Remote Town 1 17290 7935
+Rocky Mountain College Bachelor's Graduate Rocky Mountains Mid-size City 0.6683 32987 6433
+Clarkson College Bachelor's Graduate Great Plains Large City 0.6056 22322 9266
+Bryan College of Health Sciences Bachelor's Graduate Great Plains Large City 0.7167 26429 13430
+Concordia University-Nebraska Bachelor's Graduate Great Plains Distant Town 0.7152 33226 5404
+Creighton University Bachelor's Graduate Great Plains Large City 0.7665 46248 13789
+Doane College-Crete Bachelor's Bachelor's Great Plains Distant Town 0.7173 36370 10167
+Grace University Bachelor's Graduate Great Plains Large City 0.5846 27873 9292
+Hastings College Bachelor's Graduate Great Plains Distant Town 0.7364 35673 7894
+University of Nebraska at Kearney Bachelor's Graduate Great Plains Remote Town 0.8486 19212 7552
+Nebraska Methodist College of Nursing & Allied Health Bachelor's Graduate Great Plains Large City 0.3333 23987 9227
+Midland University Bachelor's Graduate Great Plains Distant Town 0.6832 36214 4625
+University of Nebraska at Omaha Bachelor's Graduate Great Plains Large City 0.7078 16860 7900
+Nebraska Wesleyan University Bachelor's Graduate Great Plains Large City 0.7689 36429 6896
+University of Nebraska-Lincoln Bachelor's Graduate Great Plains Large City 0.6404 21024 10583
+College of Saint Mary Bachelor's Graduate Great Plains Large City 0.5701 36592 6776
+Union College Bachelor's Graduate Great Plains Large City 0.5229 30383 9339
+York College Bachelor's Bachelor's Great Plains Remote Town 0.489 26127 5385
+University of Nevada-Las Vegas Bachelor's Graduate Far West Mid-size City 0.8512 17478 8741
+University of Nevada-Reno Bachelor's Graduate Far West Mid-size City 0.8396 21398 14946
+Daniel Webster College Bachelor's Graduate New England Small City 0.5992 27321 17386
+Dartmouth College Bachelor's Graduate New England Remote Town 0.0978 61398 25268
+Franklin Pierce University Bachelor's Graduate New England Fringe Rural 0.8472 44410 7615
+Plymouth State University Bachelor's Graduate New England Remote Town 0.7748 24828 8487
+Rivier University Bachelor's Graduate New England Small City 0.8928 39525 7573
+Saint Anselm College Bachelor's Bachelor's New England Mid-size Suburb 0.7365 48016 10515
+Caldwell College Bachelor's Graduate Mid-Atlantic Large Suburb 0.6408 38223 6788
+Centenary College Bachelor's Graduate Mid-Atlantic Large Suburb 0.9094 44586 5408
+Drew University Bachelor's Graduate Mid-Atlantic Large Suburb 0.7743 56932 13206
+Felician College Bachelor's Graduate Mid-Atlantic Large Suburb 0.8819 41750 8805
+Monmouth University Bachelor's Graduate Mid-Atlantic Large Suburb 0.7791 42307 8540
+New Jersey Institute of Technology Bachelor's Graduate Mid-Atlantic Large City 0.6547 26700 8337
+Princeton University Bachelor's Graduate Mid-Atlantic Large Suburb 0.0741 55430 48021
+Ramapo College of New Jersey Bachelor's Graduate Mid-Atlantic Large Suburb 0.5526 27781 8976
+Rider University Bachelor's Graduate Mid-Atlantic Large Suburb 0.7187 48163 12584
+Saint Peter's University Bachelor's Graduate Mid-Atlantic Large City 0.5408 40921 8447
+Seton Hall University Bachelor's Graduate Mid-Atlantic Large Suburb 0.7916 46869 10681
+Stevens Institute of Technology Bachelor's Graduate Mid-Atlantic Large Suburb 0.3816 59479 14918
+The Richard Stockton College of New Jersey Bachelor's Graduate Mid-Atlantic Mid-size Suburb 0.6211 26086 8256
+Eastern New Mexico University-Main Campus Bachelor's Graduate Southwest Remote Town 0.6321 15021 5613
+New Mexico Military Institute Associate Associate Southwest Remote Town 0.4186 14200 13188
+New Mexico Institute of Mining and Technology Bachelor's Graduate Southwest Remote Town 0.4136 17600 9268
+University of New Mexico-Main Campus Bachelor's Graduate Southwest Large City 0.6458 16822 11288
+New Mexico State University-Main Campus Bachelor's Graduate Southwest Mid-size Suburb 0.852 17290 8494
+Santa Fe University of Art and Design Bachelor's Graduate Southwest Small City 0.9975 41417 7676
+Adelphi University Bachelor's Graduate Mid-Atlantic Large Suburb 0.6814 41559 12142
+Albany College of Pharmacy and Health Sciences Bachelor's Graduate Mid-Atlantic Small City 0.634 40718 11879
+Alfred University Bachelor's Graduate Mid-Atlantic Remote Town 0.698 38830 10891
+Barnard College Bachelor's Bachelor's Mid-Atlantic Large City 0.2053 59581 21351
+Canisius College Bachelor's Graduate Mid-Atlantic Large City 0.7251 42796 8788
+Clarkson University Bachelor's Graduate Mid-Atlantic Remote Town 0.6403 54772 13218
+Colgate University Bachelor's Graduate Mid-Atlantic Distant Town 0.2638 57745 21634
+Columbia University in the City of New York Bachelor's Graduate Mid-Atlantic Large City 0.0742 61540 78147
+Concordia College-New York Bachelor's Graduate Mid-Atlantic Large Suburb 0.6701 36593 8315
+Cooper Union for the Advancement of Science and Art Bachelor's Graduate Mid-Atlantic Large City 0.0774 56735 24981
+Cornell University Bachelor's Graduate Mid-Atlantic Small City 0.1556 59572 23140
+D'Youville College Bachelor's Graduate Mid-Atlantic Large City 0.7908 32741 8975
+Dominican College of Blauvelt Bachelor's Graduate Mid-Atlantic Large Suburb 0.7189 35825 7242
+Elmira College Bachelor's Graduate Mid-Atlantic Small City 0.7978 50608 8417
+Five Towns College Bachelor's Graduate Mid-Atlantic Large Suburb 0.5509 31557 3621
+Fordham University Bachelor's Graduate Mid-Atlantic Large City 0.4713 56604 13784
+Hamilton College Bachelor's Bachelor's Mid-Atlantic Fringe Rural 0.2719 57420 28954
+Hartwick College Bachelor's Bachelor's Mid-Atlantic Remote Town 0.8424 48699 11990
+Hofstra University Bachelor's Graduate Mid-Atlantic Large Suburb 0.5871 49604 15989
+Houghton College Bachelor's Graduate Mid-Atlantic Remote Rural 0.9108 38352 10107
+Iona College Bachelor's Graduate Mid-Atlantic Large Suburb 0.9212 44623 8271
+LIM College Bachelor's Graduate Mid-Atlantic Large City 0.7502 41111 4491
+Le Moyne College Bachelor's Graduate Mid-Atlantic Mid-size City 0.619 42068 9710
+LIU Brooklyn Bachelor's Graduate Mid-Atlantic Large City 0.869 42712 11583
+LIU Post Bachelor's Graduate Mid-Atlantic Large Suburb 0.8067 44701 10405
+Manhattan College Bachelor's Graduate Mid-Atlantic Large City 0.6617 44895 9882
+Maria College of Albany Associate Bachelor's Mid-Atlantic Small City 0.1603 17344 5852
+Marymount Manhattan College Bachelor's Bachelor's Mid-Atlantic Large City 0.7463 45323 10187
+Molloy College Bachelor's Graduate Mid-Atlantic Large Suburb 0.7267 36702 12758
+Mount Saint Mary College Bachelor's Graduate Mid-Atlantic Large Suburb 0.86 38808 7429
+College of Mount Saint Vincent Bachelor's Graduate Mid-Atlantic Large City 0.731 37738 8295
+The College of New Rochelle Bachelor's Graduate Mid-Atlantic Large Suburb 0.5695 43273 5170
+The New School Bachelor's Graduate Mid-Atlantic Large City 0.6659 57203 12326
+New York University Bachelor's Graduate Mid-Atlantic Large City 0.2605 60059 28606
+Niagara University Bachelor's Graduate Mid-Atlantic Large Suburb 0.6633 38829 7355
+New York Institute of Technology Bachelor's Graduate Mid-Atlantic Large Suburb 0.7407 39014 15085
+Nyack College Bachelor's Graduate Mid-Atlantic Large Suburb 0.9671 34586 7721
+Pace University-New York Bachelor's Graduate Mid-Atlantic Large City 0.7683 50625 10191
+Paul Smiths College of Arts and Science Bachelor's Bachelor's Mid-Atlantic Distant Rural 0.7474 38860 6341
+Polytechnic Institute of New York University Bachelor's Graduate Mid-Atlantic Large City 0.7523 50199 14256
+Davis College Bachelor's Bachelor's Mid-Atlantic Mid-size Suburb 0.5859 21593 3198
+Pratt Institute-Main Bachelor's Graduate Mid-Atlantic Large City 0.5572 54582 13360
+Rensselaer Polytechnic Institute Bachelor's Graduate Mid-Atlantic Small City 0.412 59470 20550
+Roberts Wesleyan College Bachelor's Graduate Mid-Atlantic Large Suburb 0.726 38826 10436
+Rochester Institute of Technology Bachelor's Graduate Mid-Atlantic Large Suburb 0.6016 45772 16160
+University of Rochester Bachelor's Graduate Mid-Atlantic Mid-size City 0.3568 59156 29937
+St Bonaventure University Bachelor's Graduate Mid-Atlantic Remote Town 0.7999 41265 7923
+St Joseph's College of Nursing at St Joseph's Hospital Health Center Associate Associate Mid-Atlantic Mid-size City 0.4121 23992 12417
+St Thomas Aquinas College Bachelor's Graduate Mid-Atlantic Large Suburb 0.8224 36823 9077
+Siena College Bachelor's Graduate Mid-Atlantic Large Suburb 0.6805 45452 10545
+Skidmore College Bachelor's Graduate Mid-Atlantic Small Suburb 0.3505 58562 19402
+Saint Joseph's College-New York Bachelor's Graduate Mid-Atlantic Large City 0.7538 25290 7860
+Saint John Fisher College Bachelor's Graduate Mid-Atlantic Large Suburb 0.6277 39014 8715
+St John's University-New York Bachelor's Graduate Mid-Atlantic Large City 0.5316 50233 10743
+SUNY College of Technology at Alfred Associate Bachelor's Mid-Atlantic Remote Town 0.5494 21127 9777
+SUNY College of Agriculture and Technology at Cobleskill Associate Bachelor's Mid-Atlantic Distant Town 0.7309 21178 7997
+Farmingdale State College Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.5264 15258 9540
+Morrisville State College Associate Bachelor's Mid-Atlantic Distant Rural 0.5898 22083 10578
+SUNY at Albany Bachelor's Graduate Mid-Atlantic Small City 0.5545 21249 11393
+SUNY at Binghamton Bachelor's Graduate Mid-Atlantic Mid-size Suburb 0.4287 21966 10953
+University at Buffalo Bachelor's Graduate Mid-Atlantic Large Suburb 0.5652 20885 15151
+Stony Brook University Bachelor's Graduate Mid-Atlantic Large Suburb 0.3948 20611 18552
+SUNY College of Environmental Science and Forestry Bachelor's Graduate Mid-Atlantic Mid-size City 0.5052 22550 15891
+SUNY Institute of Technology at Utica-Rome Bachelor's Graduate Mid-Atlantic Mid-size Suburb 0.4754 19843 9945
+SUNY College at Brockport Bachelor's Graduate Mid-Atlantic Fringe Town 0.4774 19511 11538
+SUNY College at Cortland Bachelor's Graduate Mid-Atlantic Distant Town 0.4683 21840 9182
+SUNY at Fredonia Bachelor's Graduate Mid-Atlantic Distant Town 0.5154 20802 10250
+SUNY College at Geneseo Bachelor's Graduate Mid-Atlantic Distant Town 0.4566 21004 10011
+State University of New York at New Paltz Bachelor's Graduate Mid-Atlantic Large Suburb 0.4359 20428 10228
+SUNY Oneonta Bachelor's Graduate Mid-Atlantic Remote Town 0.5073 20762 8609
+SUNY College at Oswego Bachelor's Graduate Mid-Atlantic Distant Town 0.4863 21222 9804
+SUNY at Purchase College Bachelor's Graduate Mid-Atlantic Large Suburb 0.3319 22381 10361
+SUNY College at Old Westbury Bachelor's Graduate Mid-Atlantic Large Suburb 0.5804 15888 9499
+SUNY College at Plattsburgh Bachelor's Graduate Mid-Atlantic Distant Town 0.4564 20371 10349
+SUNY Maritime College Bachelor's Graduate Mid-Atlantic Large City 0.6396 21493 10198
+Syracuse University Bachelor's Graduate Mid-Atlantic Mid-size City 0.4949 55600 14915
+Union College Bachelor's Bachelor's Mid-Atlantic Small City 0.3728 58023 20763
+Utica College Bachelor's Graduate Mid-Atlantic Small City 0.8542 44394 8035
+Vassar College Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.2411 59320 29148
+School of Visual Arts Bachelor's Graduate Mid-Atlantic Large City 0.7489 48993 11276
+Wagner College Bachelor's Graduate Mid-Atlantic Large City 0.6988 49453 10939
+Wells College Bachelor's Bachelor's Mid-Atlantic Distant Rural 0.5967 48142 9525
+Yeshiva University Bachelor's Graduate Mid-Atlantic Large City 0.8216 53825 33021
+Appalachian State University Bachelor's Graduate Southeast Distant Town 0.6323 17780 7361
+Barton College Bachelor's Graduate Southeast Fringe Town 0.4177 37437 6597
+Belmont Abbey College Bachelor's Bachelor's Southeast Mid-size Suburb 0.6759 39328 5227
+Brevard College Bachelor's Bachelor's Southeast Fringe Town 0.4489 35062 8357
+Cabarrus College of Health Sciences Associate Bachelor's Southeast Small City 0.3107 19688 6927
+Campbell University Bachelor's Graduate Southeast Fringe Town 0.6983 40323 8835
+Chowan University Bachelor's Graduate Southeast Distant Town 0.6154 32188 5191
+Davidson College Bachelor's Bachelor's Southeast Large Suburb 0.2561 54930 17631
+Duke University Bachelor's Graduate Southeast Mid-size City 0.1342 59528 51653
+East Carolina University Bachelor's Graduate Southeast Small City 0.6217 19851 11838
+Elizabeth City State University Bachelor's Graduate Southeast Distant Town 0.5715 10620 8556
+Elon University Bachelor's Graduate Southeast Mid-size Suburb 0.5398 41679 14745
+Fayetteville State University Bachelor's Graduate Southeast Mid-size City 0.5496 13188 8010
+Gardner-Webb University Bachelor's Graduate Southeast Distant Town 0.4817 35790 6176
+Greensboro College Bachelor's Graduate Southeast Large City 0.7831 37497 6340
+Guilford College Bachelor's Bachelor's Southeast Large City 0.6818 44255 7234
+High Point University Bachelor's Graduate Southeast Mid-size City 0.6418 42300 8793
+Johnson C Smith University Bachelor's Bachelor's Southeast Large City 0.3668 30314 6837
+Lenoir-Rhyne University Bachelor's Graduate Southeast Small City 0.6806 39425 7048
+Livingstone College Bachelor's Bachelor's Southeast Mid-size Suburb 0.7122 25050 4901
+Mars Hill University Bachelor's Graduate Southeast Large Suburb 0.6447 36669 5825
+Meredith College Bachelor's Graduate Southeast Large City 0.6232 39296 9730
+Methodist University Bachelor's Graduate Southeast Mid-size City 0.6122 45011 7620
+Montreat College Bachelor's Graduate Southeast Large Suburb 0.5429 33963 4259
+Mount Olive College Bachelor's Bachelor's Southeast Fringe Town 0.4979 26161 3143
+North Carolina A & T State University Bachelor's Graduate Southeast Large City 0.6964 15313 9006
+University of North Carolina at Asheville Bachelor's Graduate Southeast Small City 0.6403 17468 9085
+University of North Carolina at Chapel Hill Bachelor's Graduate Southeast Small City 0.2759 23069 25891
+University of North Carolina at Charlotte Bachelor's Graduate Southeast Large City 0.6852 17767 8855
+University of North Carolina at Greensboro Bachelor's Graduate Southeast Large City 0.6002 17362 8803
+North Carolina Central University Bachelor's Graduate Southeast Mid-size City 0.5033 17873 10084
+University of North Carolina School of the Arts Bachelor's Graduate Southeast Mid-size City 0.4521 19666 20892
+North Carolina State University at Raleigh Bachelor's Graduate Southeast Large City 0.5001 20511 13831
+North Carolina Wesleyan College Bachelor's Bachelor's Southeast Small City 0.4676 36686 5604
+University of North Carolina Wilmington Bachelor's Graduate Southeast Mid-size City 0.5419 18165 7865
+William Peace University Bachelor's Bachelor's Southeast Large City 0.9086 37712 5032
+University of North Carolina at Pembroke Bachelor's Graduate Southeast Distant Town 0.7204 15784 7001
+Pfeiffer University Bachelor's Graduate Southeast Distant Rural 0.9609 34515 6191
+Piedmont International University Bachelor's Graduate Southeast Mid-size City 0.4884 22699 3454
+Queens University of Charlotte Bachelor's Graduate Southeast Large City 0.7686 40930 9180
+Mid-Atlantic Christian University Bachelor's Bachelor's Southeast Distant Town 0.4107 24257 3846
+Saint Augustine's University Bachelor's Bachelor's Southeast Large City 0.6738 31095 6544
+Salem College Bachelor's Graduate Southeast Mid-size City 0.582 39859 7665
+St Andrews University Bachelor's Bachelor's Southeast Distant Town 0.6448 38467 6704
+Warren Wilson College Bachelor's Graduate Southeast Large Suburb 0.696 41000 10902
+Wingate University Bachelor's Graduate Southeast Large Suburb 0.793 35465 8685
+Winston-Salem State University Bachelor's Graduate Southeast Mid-size City 0.5565 15990 10878
+Western Carolina University Bachelor's Graduate Southeast Fringe Rural 0.3766 17805 7906
+Dickinson State University Bachelor's Bachelor's Great Plains Remote Town 0.4868 13314 9327
+University of Jamestown Bachelor's Graduate Great Plains Remote Town 0.5689 27712 6849
+University of Mary Bachelor's Graduate Great Plains Fringe Rural 0.8307 22936 6616
+Minot State University Bachelor's Graduate Great Plains Remote Town 0.5662 14549 8038
+University of North Dakota Bachelor's Graduate Great Plains Small City 0.737 20538 16008
+North Dakota State University-Main Campus Bachelor's Graduate Great Plains Mid-size City 0.841 18277 7707
+Valley City State University Bachelor's Graduate Great Plains Remote Town 0.829 16086 10876
+University of Akron Main Campus Bachelor's Graduate Great Lakes Mid-size City 0.9649 21338 8567
+Art Academy of Cincinnati Bachelor's Graduate Great Lakes Large City 0.2548 32485 27594
+Ashland University Bachelor's Graduate Great Lakes Fringe Town 0.7438 40835 7945
+Aultman College of Nursing and Health Sciences Associate Associate Great Lakes Small City 1 24311 7822
+Baldwin Wallace University Bachelor's Graduate Great Lakes Large Suburb 0.6396 37504 10201
+Bluffton University Bachelor's Graduate Great Lakes Distant Town 0.5308 40078 8243
+Bowling Green State University-Main Campus Bachelor's Graduate Great Lakes Fringe Town 0.7247 22416 8529
+Capital University Bachelor's Graduate Great Lakes Large Suburb 0.7604 42600 9026
+Case Western Reserve University Bachelor's Graduate Great Lakes Large City 0.4188 55783 31974
+Cedarville University Bachelor's Graduate Great Lakes Fringe Town 0.7401 33652 9988
+Central State University Bachelor's Graduate Great Lakes Fringe Rural 0.3328 17380 6839
+The Christ College of Nursing and Health Sciences Associate Associate Great Lakes Large City 0.525 25338 10770
+Cincinnati Christian University Bachelor's Graduate Great Lakes Large City 0.6398 25900 6054
+University of Cincinnati-Main Campus Bachelor's Graduate Great Lakes Large City 0.7325 25799 10476
+Ohio Christian University Bachelor's Graduate Great Lakes Distant Town 0.9711 33077 4377
+Cleveland Institute of Art Bachelor's Bachelor's Great Lakes Large City 0.6825 50146 14879
+Cleveland State University Bachelor's Graduate Great Lakes Large City 0.6287 22041 8213
+Columbus College of Art and Design Bachelor's Graduate Great Lakes Large City 0.8551 39478 9500
+University of Dayton Bachelor's Graduate Great Lakes Mid-size City 0.5297 46250 10823
+Defiance College Bachelor's Graduate Great Lakes Distant Town 0.716 38824 6401
+Denison University Bachelor's Bachelor's Great Lakes Small Suburb 0.4597 54490 17853
+The University of Findlay Bachelor's Graduate Great Lakes Distant Town 0.6832 38941 8412
+Good Samaritan College of Nursing and Health Science Associate Associate Great Lakes Large City 0.7222 25222 13191
+Hiram College Bachelor's Graduate Great Lakes Fringe Town 0.5736 42672 9169
+John Carroll University Bachelor's Graduate Great Lakes Large Suburb 0.8334 45714 9365
+Kent State University at Kent Bachelor's Graduate Great Lakes Large Suburb 0.8302 23995 7675
+Kenyon College Bachelor's Bachelor's Great Lakes Distant Town 0.3838 57910 19725
+Kettering College Associate Graduate Great Lakes Large Suburb 0.8514 19993 8849
+Lake Erie College Bachelor's Graduate Great Lakes Large Suburb 0.5561 39085 5191
+Malone University Bachelor's Graduate Great Lakes Small City 0.7179 35213 6567
+Marietta College Bachelor's Graduate Great Lakes Fringe Town 0.6387 42205 12211
+Miami University-Oxford Bachelor's Graduate Great Lakes Fringe Town 0.6676 30858 10056
+Mount Carmel College of Nursing Bachelor's Graduate Great Lakes Large City 0.5421 25491 5545
+University of Mount Union Bachelor's Graduate Great Lakes Fringe Town 0.712 37502 8974
+Mount Vernon Nazarene University Bachelor's Graduate Great Lakes Distant Town 0.6349 33321 6654
+College of Mount St Joseph Bachelor's Graduate Great Lakes Large Suburb 0.8755 31989 7201
+Muskingum University Bachelor's Graduate Great Lakes Distant Town 0.7596 33630 8196
+Notre Dame College Bachelor's Graduate Great Lakes Large Suburb 0.9024 36250 5431
+Oberlin College Bachelor's Graduate Great Lakes Fringe Town 0.3041 59683 27620
+Ohio Dominican University Bachelor's Graduate Great Lakes Large City 0.494 40370 5064
+Ohio Northern University Bachelor's Graduate Great Lakes Fringe Town 0.6785 49618 12893
+Ohio State University-Main Campus Bachelor's Graduate Great Lakes Large City 0.5553 24524 16161
+Ohio University-Main Campus Bachelor's Graduate Great Lakes Distant Town 0.7295 23605 9768
+Ohio Wesleyan University Bachelor's Bachelor's Great Lakes Large Suburb 0.7533 52819 13181
+Otterbein University Bachelor's Graduate Great Lakes Large Suburb 0.7374 41646 9507
+Franciscan University of Steubenville Bachelor's Graduate Great Lakes Small City 0.7607 32761 7014
+Tiffin University Bachelor's Graduate Great Lakes Distant Town 0.3856 34771 2238
+University of Toledo Bachelor's Graduate Great Lakes Large City 0.9073 21263 12173
+Ursuline College Bachelor's Graduate Great Lakes Large Suburb 0.5782 35976 10964
+Walsh University Bachelor's Graduate Great Lakes Large Suburb 0.7713 34994 7309
+Wilmington College Bachelor's Graduate Great Lakes Fringe Rural 0.4603 39415 6005
+Wittenberg University Bachelor's Bachelor's Great Lakes Small City 0.8932 50728 11044
+The College of Wooster Bachelor's Bachelor's Great Lakes Distant Town 0.5633 51300 13868
+Xavier University Bachelor's Graduate Great Lakes Large City 0.6997 45080 10197
+Bacone College Bachelor's Bachelor's Southwest Distant Town 0.7182 26400 3605
+Oklahoma Wesleyan University Bachelor's Graduate Southwest Distant Town 0.4934 32241 6127
+University of Central Oklahoma Bachelor's Graduate Southwest Large Suburb 0.8398 16684 6560
+East Central University Bachelor's Graduate Southwest Remote Town 0.9814 13735 7061
+Hillsdale Free Will Baptist College Bachelor's Graduate Southwest Large Suburb 0.4331 23637 3755
+Northeastern State University Bachelor's Graduate Southwest Remote Town 0.7337 13296 7338
+Northwestern Oklahoma State University Bachelor's Graduate Southwest Remote Town 0.598 13065 6634
+Oklahoma Christian University Bachelor's Graduate Southwest Large City 0.6321 29359 8096
+Oklahoma Panhandle State University Bachelor's Bachelor's Southwest Distant Rural 0.4767 15439 5257
+Oklahoma State University-Main Campus Bachelor's Graduate Southwest Distant Town 0.7602 21338 8346
+Oklahoma Baptist University Bachelor's Graduate Southwest Distant Town 0.5646 31759 6372
+Oklahoma City University Bachelor's Graduate Southwest Large City 0.7198 41431 12581
+University of Oklahoma-Norman Campus Bachelor's Graduate Southwest Mid-size Suburb 0.8044 23263 11985
+Oral Roberts University Bachelor's Graduate Southwest Large City 0.4354 35070 7486
+Rogers State University Bachelor's Bachelor's Southwest Fringe Town 0.5445 17213 5098
+University of Science and Arts of Oklahoma Bachelor's Bachelor's Southwest Distant Town 0.6246 15440 6819
+Southeastern Oklahoma State University Bachelor's Graduate Southwest Distant Town 0.7992 14050 6685
+Southwestern Christian University Bachelor's Graduate Southwest Large Suburb 0.884 22983 5930
+Southwestern Oklahoma State University Bachelor's Graduate Southwest Remote Town 0.9026 16660 7391
+University of Tulsa Bachelor's Graduate Southwest Large City 0.4059 46560 16047
+Concordia University-Portland Bachelor's Graduate Far West Large City 0.5592 35963 3210
+George Fox University Bachelor's Graduate Far West Fringe Town 0.7528 41836 8922
+Lewis & Clark College Bachelor's Graduate Far West Large City 0.6285 53455 14496
+Linfield College-McMinnville Campus Bachelor's Bachelor's Far West Distant Town 0.9219 45708 13664
+Multnomah University Bachelor's Graduate Far West Large City 0.538 33878 5444
+Northwest Christian University Bachelor's Graduate Far West Mid-size City 0.7044 34807 4480
+Oregon Institute of Technology Bachelor's Graduate Far West Remote Town 0.7135 18801 9094
+Oregon State University Bachelor's Graduate Far West Small City 0.7894 22974 10145
+University of Oregon Bachelor's Graduate Far West Mid-size City 0.7417 22390 11641
+Pacific University Bachelor's Graduate Far West Large Suburb 0.8619 47922 11413
+Reed College Bachelor's Graduate Far West Large City 0.4853 57701 20261
+Corban University Bachelor's Graduate Far West Mid-size City 0.3225 38834 6654
+Willamette University Bachelor's Graduate Far West Mid-size City 0.5784 52665 14645
+Albright College Bachelor's Graduate Mid-Atlantic Small City 0.6231 46170 9620
+Allegheny College Bachelor's Bachelor's Mid-Atlantic Distant Town 0.6487 50044 12490
+DeSales University Bachelor's Graduate Mid-Atlantic Fringe Rural 0.758 45331 8232
+Alvernia University Bachelor's Graduate Mid-Atlantic Small City 0.7762 39999 6251
+Baptist Bible College & Seminary of Pennsylvania Bachelor's Graduate Mid-Atlantic Large Suburb 0.8576 28001 5440
+Arcadia University Bachelor's Graduate Mid-Atlantic Large Suburb 0.5969 48907 8548
+Bloomsburg University of Pennsylvania Bachelor's Graduate Mid-Atlantic Small City 0.8856 21732 8108
+Bryn Mawr College Bachelor's Graduate Mid-Atlantic Large Suburb 0.3992 57586 30846
+Bucknell University Bachelor's Graduate Mid-Atlantic Distant Town 0.2951 59090 19054
+Cabrini College Bachelor's Graduate Mid-Atlantic Large Suburb 0.7428 43541 7095
+California University of Pennsylvania Bachelor's Graduate Mid-Atlantic Small Suburb 0.9269 23081 6990
+Carlow University Bachelor's Graduate Mid-Atlantic Large City 0.9522 35640 7197
+Carnegie Mellon University Bachelor's Graduate Mid-Atlantic Large City 0.2549 59710 24821
+Cedar Crest College Bachelor's Graduate Mid-Atlantic Mid-size City 0.588 41240 9593
+Chestnut Hill College Bachelor's Graduate Mid-Atlantic Large City 0.5785 42663 7120
+Delaware Valley College Bachelor's Graduate Mid-Atlantic Large Suburb 0.6834 44778 8110
+Dickinson College Bachelor's Bachelor's Mid-Atlantic Small City 0.4444 58149 17811
+Drexel University Bachelor's Graduate Mid-Atlantic Large City 0.815 53831 13309
+Duquesne University Bachelor's Graduate Mid-Atlantic Large City 0.7409 42280 10729
+East Stroudsburg University of Pennsylvania Bachelor's Graduate Mid-Atlantic Small City 0.7844 20282 7595
+Eastern University Bachelor's Graduate Mid-Atlantic Large Suburb 0.6409 39764 7909
+Edinboro University of Pennsylvania Bachelor's Graduate Mid-Atlantic Fringe Town 0.8735 19886 8518
+Elizabethtown College Bachelor's Graduate Mid-Atlantic Large Suburb 0.6957 47390 13704
+Gannon University Bachelor's Graduate Mid-Atlantic Mid-size City 0.8042 37572 7572
+Geneva College Bachelor's Graduate Mid-Atlantic Large Suburb 0.6802 34818 7872
+Gettysburg College Bachelor's Bachelor's Mid-Atlantic Small City 0.4163 55770 15043
+Gwynedd Mercy University Bachelor's Graduate Mid-Atlantic Large Suburb 0.6591 39051 7436
+Haverford College Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.2349 59654 27567
+Holy Family University Bachelor's Graduate Mid-Atlantic Large City 0.7585 31949 8855
+Immaculata University Bachelor's Graduate Mid-Atlantic Large Suburb 0.7964 45011 4936
+Indiana University of Pennsylvania-Main Campus Bachelor's Graduate Mid-Atlantic Distant Town 0.9049 22936 8479
+Johnson College Associate Associate Mid-Atlantic Small City 0.329 23767 5851
+Keystone College Bachelor's Graduate Mid-Atlantic Large Suburb 0.7205 31012 5705
+Kutztown University of Pennsylvania Bachelor's Graduate Mid-Atlantic Fringe Town 0.8179 23130 8268
+La Roche College Bachelor's Graduate Mid-Atlantic Large Suburb 0.5565 35493 5901
+La Salle University Bachelor's Graduate Mid-Atlantic Large City 0.8021 47134 9385
+Lafayette College Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.3414 57688 20383
+Lancaster Bible College Bachelor's Graduate Mid-Atlantic Large Suburb 0.5813 27372 8105
+Lebanon Valley College Bachelor's Graduate Mid-Atlantic Small Suburb 0.6686 46169 9979
+Lehigh University Bachelor's Graduate Mid-Atlantic Small City 0.3084 55441 19955
+Lincoln University of Pennsylvania Bachelor's Graduate Mid-Atlantic Large Suburb 0.6133 22497 8889
+Lock Haven University Bachelor's Graduate Mid-Atlantic Distant Town 0.8777 19145 7365
+Lycoming College Bachelor's Bachelor's Mid-Atlantic Small City 0.7162 44256 8056
+Manor College Associate Associate Mid-Atlantic Large Suburb 0.455 23119 5555
+Mansfield University of Pennsylvania Bachelor's Graduate Mid-Atlantic Distant Town 0.9229 21432 9280
+Mercyhurst University Bachelor's Graduate Mid-Atlantic Mid-size City 0.7536 42367 11645
+Messiah College Bachelor's Graduate Mid-Atlantic Large Suburb 0.659 41341 10251
+Millersville University of Pennsylvania Bachelor's Graduate Mid-Atlantic Large Suburb 0.7186 21756 7862
+Misericordia University Bachelor's Graduate Mid-Atlantic Large Suburb 0.6489 38504 7162
+Moore College of Art and Design Bachelor's Graduate Mid-Atlantic Large City 0.5632 47675 10517
+Mount Aloysius College Associate Graduate Mid-Atlantic Fringe Town 0.6876 30884 5798
+Muhlenberg College Bachelor's Bachelor's Mid-Atlantic Mid-size City 0.4616 53637 14525
+Neumann University Bachelor's Graduate Mid-Atlantic Large Suburb 0.5531 37314 5192
+Pennsylvania State University-Penn State Erie-Behrend College Bachelor's Graduate Mid-Atlantic Mid-size Suburb 0.8408 27759 5530
+Pennsylvania State University-Penn State New Kensington Bachelor's Bachelor's Mid-Atlantic Fringe Rural 0.7379 20315 5981
+Pennsylvania State University-Penn State Shenango Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.6943 21867 5903
+Pennsylvania State University-Penn State Wilkes-Barre Bachelor's Bachelor's Mid-Atlantic Fringe Rural 0.8199 20301 5105
+Pennsylvania State University-Penn State Worthington Scranton Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.8186 20183 5694
+Pennsylvania State University-Penn State Lehigh Valley Bachelor's Graduate Mid-Atlantic Large Suburb 0.8548 19456 4653
+Pennsylvania State University-Penn State Altoona Bachelor's Bachelor's Mid-Atlantic Small City 0.8519 27591 4661
+Pennsylvania State University-Penn State Beaver Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.8731 22942 5449
+Pennsylvania State University-Penn State Berks Bachelor's Graduate Mid-Atlantic Large Suburb 0.8307 25931 4619
+Pennsylvania State University-Penn State Harrisburg Bachelor's Graduate Mid-Atlantic Large Suburb 0.7994 26651 6170
+Pennsylvania State University-Penn State Brandywine Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.7905 19297 4409
+Pennsylvania State University-Penn State Dubois Associate Bachelor's Mid-Atlantic Remote Town 0.8793 21299 6633
+Pennsylvania State University-Penn State Fayette- Eberly Associate Bachelor's Mid-Atlantic Fringe Rural 0.8918 19753 5116
+Pennsylvania State University-Penn State Hazleton Associate Bachelor's Mid-Atlantic Small Suburb 0.8634 25745 5190
+Pennsylvania State University-Main Campus Bachelor's Graduate Mid-Atlantic Small City 0.542 31625 18073
+Pennsylvania State University-Penn State Greater Allegheny Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.7983 24415 6204
+Pennsylvania State University-Penn State Mont Alto Associate Bachelor's Mid-Atlantic Fringe Town 0.8271 25553 5313
+Pennsylvania State University-Penn State Abington Bachelor's Graduate Mid-Atlantic Large Suburb 0.7774 19611 3915
+Pennsylvania State University-Penn State Schuylkill Bachelor's Bachelor's Mid-Atlantic Distant Town 0.811 24227 5779
+Pennsylvania State University-Penn State York Bachelor's Graduate Mid-Atlantic Mid-size Suburb 0.845 19761 5750
+University of Pennsylvania Bachelor's Graduate Mid-Atlantic Large City 0.1224 59600 52081
+Philadelphia University Bachelor's Graduate Mid-Atlantic Large City 0.6408 46451 9410
+The University of the Arts Bachelor's Graduate Mid-Atlantic Large City 0.7539 52401 12248
+Cairn University-Langhorne Bachelor's Graduate Mid-Atlantic Large Suburb 0.5131 32509 6906
+University of the Sciences Bachelor's Graduate Mid-Atlantic Large City 0.5635 49327 12508
+University of Pittsburgh-Bradford Bachelor's Bachelor's Mid-Atlantic Remote Town 0.8532 23732 8308
+University of Pittsburgh-Greensburg Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.9311 23343 5416
+University of Pittsburgh-Johnstown Bachelor's Bachelor's Mid-Atlantic Small Suburb 0.9038 23709 5859
+University of Pittsburgh-Pittsburgh Campus Bachelor's Graduate Mid-Atlantic Large City 0.5613 30410 16506
+University of Pittsburgh-Titusville Associate Associate Mid-Atlantic Remote Town 0.954 22596 8727
+Point Park University Bachelor's Graduate Mid-Atlantic Large City 0.7393 36726 8943
+Robert Morris University Bachelor's Graduate Mid-Atlantic Large Suburb 0.8051 38274 7491
+Rosemont College Bachelor's Graduate Mid-Atlantic Large Suburb 0.5838 45067 6212
+Saint Francis University Bachelor's Graduate Mid-Atlantic Fringe Town 0.7606 42492 7042
+Saint Joseph's University Bachelor's Graduate Mid-Atlantic Large City 0.7873 52779 11930
+Saint Vincent College Bachelor's Graduate Mid-Atlantic Large Suburb 0.6875 41591 7914
+University of Scranton Bachelor's Graduate Mid-Atlantic Small City 0.7503 51962 10141
+Seton Hill University Bachelor's Graduate Mid-Atlantic Large Suburb 0.652 40497 8304
+Shippensburg University of Pennsylvania Bachelor's Graduate Mid-Atlantic Fringe Town 0.8341 20840 8550
+Slippery Rock University of Pennsylvania Bachelor's Graduate Mid-Atlantic Distant Town 0.6698 21303 7194
+Susquehanna University Bachelor's Bachelor's Mid-Atlantic Distant Town 0.7233 49025 10613
+Swarthmore College Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.1432 58481 29924
+Temple University Bachelor's Graduate Mid-Atlantic Large City 0.6387 27247 12500
+Thiel College Bachelor's Bachelor's Mid-Atlantic Fringe Town 0.655 39573 7496
+Ursinus College Bachelor's Bachelor's Mid-Atlantic Large Suburb 0.6633 57163 13464
+Valley Forge Christian College Bachelor's Graduate Mid-Atlantic Large Suburb 0.6585 29736 6212
+Valley Forge Military College Associate Associate Mid-Atlantic Large Suburb 0.7484 43500 13234
+Villanova University Bachelor's Graduate Mid-Atlantic Large Suburb 0.489 56265 15426
+Waynesburg University Bachelor's Graduate Mid-Atlantic Distant Town 0.7523 28822 8294
+Westminster College Bachelor's Graduate Mid-Atlantic Fringe Town 0.7336 42474 8865
+Wilson College Bachelor's Graduate Mid-Atlantic Small City 0.5267 39818 8569
+York College Pennsylvania Bachelor's Graduate Mid-Atlantic Mid-size Suburb 0.7351 27266 8057
+Brown University Bachelor's Graduate New England Mid-size City 0.0918 58140 30823
+Bryant University Bachelor's Graduate New England Large Suburb 0.7655 50858 8913
+Providence College Bachelor's Graduate New England Mid-size City 0.5979 56184 12232
+Rhode Island College Bachelor's Graduate New England Large Suburb 0.6915 14858 7628
+University of Rhode Island Bachelor's Graduate New England Large Suburb 0.7871 26262 7446
+Rhode Island School of Design Bachelor's Graduate New England Mid-size City 0.2731 59597 20460
+Salve Regina University Bachelor's Graduate New England Large Suburb 0.6706 48219 8057
+Anderson University Bachelor's Graduate Southeast Small City 0.6502 35340 5009
+Charleston Southern University Bachelor's Graduate Southeast Small City 0.6887 33245 5888
+Southern Wesleyan University Bachelor's Graduate Southeast Large Suburb 0.937 31054 6353
+College of Charleston Bachelor's Graduate Southeast Mid-size City 0.7031 25086 8234
+Citadel Military College of South Carolina Bachelor's Graduate Southeast Mid-size City 0.8041 24827 8968
+Claflin University Bachelor's Graduate Southeast Distant Town 0.526 29849 7775
+Clemson University Bachelor's Graduate Southeast Large Suburb 0.5787 27944 11711
+Coker College Bachelor's Bachelor's Southeast Distant Town 0.5326 32029 6063
+Columbia International University Bachelor's Graduate Southeast Mid-size City 0.6258 28141 6611
+Columbia College Bachelor's Graduate Southeast Mid-size City 0.6499 37599 7445
+Converse College Bachelor's Graduate Southeast Small City 0.5201 39748 6345
+Erskine College Bachelor's Graduate Southeast Distant Rural 0.6973 45198 8075
+Francis Marion University Bachelor's Graduate Southeast Small Suburb 0.5667 19965 8401
+Furman University Bachelor's Graduate Southeast Large Suburb 0.6397 55434 18804
+Lander University Bachelor's Graduate Southeast Distant Town 0.4216 21628 5092
+Limestone College Bachelor's Bachelor's Southeast Fringe Town 0.5322 34658 4875
+Newberry College Bachelor's Bachelor's Southeast Distant Town 0.5908 37837 5913
+North Greenville University Bachelor's Graduate Southeast Fringe Rural 0.5791 28373 4680
+Presbyterian College Bachelor's Bachelor's Southeast Distant Town 0.66 45130 10252
+University of South Carolina-Aiken Bachelor's Graduate Southeast Large Suburb 0.5122 18466 6883
+University of South Carolina-Beaufort Bachelor's Bachelor's Southeast Fringe Town 0.7304 19354 6114
+University of South Carolina-Columbia Bachelor's Graduate Southeast Mid-size City 0.606 23685 10384
+University of South Carolina-Lancaster Associate Associate Southeast Distant Town 0.888 16937 5866
+University of South Carolina-Salkehatchie Associate Associate Southeast Fringe Rural 0.7313 19403 4914
+University of South Carolina-Sumter Associate Associate Southeast Small City 0.5456 16781 6189
+University of South Carolina-Union Associate Associate Southeast Distant Town 0.7692 17501 5221
+Coastal Carolina University Bachelor's Graduate Southeast Small City 0.7404 21601 7879
+South Carolina State University Bachelor's Graduate Southeast Distant Town 0.5079 25265 8132
+University of South Carolina-Upstate Bachelor's Graduate Southeast Mid-size Suburb 0.6422 20848 6703
+Spartanburg Methodist College Associate Associate Southeast Mid-size Suburb 0.8812 25085 3484
+Winthrop University Bachelor's Graduate Southeast Small City 0.7225 24595 8527
+Wofford College Bachelor's Bachelor's Southeast Small City 0.688 47856 10109
+Augustana College Bachelor's Graduate Great Plains Mid-size City 0.6809 36828 10615
+Black Hills State University Bachelor's Graduate Great Plains Distant Town 0.8924 15906 5627
+Dakota State University Bachelor's Graduate Great Plains Distant Town 0.8297 17201 7432
+Dakota Wesleyan University Bachelor's Graduate Great Plains Remote Town 0.7023 31596 5538
+Mount Marty College Bachelor's Graduate Great Plains Remote Town 0.7239 33103 7145
+Northern State University Bachelor's Graduate Great Plains Remote Town 0.9334 17334 6723
+Presentation College Bachelor's Bachelor's Great Plains Remote Town 0.6608 26676 5942
+South Dakota School of Mines and Technology Bachelor's Graduate Great Plains Small City 0.8608 20234 10035
+South Dakota State University Bachelor's Graduate Great Plains Remote Town 0.919 18547 7415
+University of Sioux Falls Bachelor's Graduate Great Plains Mid-size City 0.969 33909 6852
+University of South Dakota Bachelor's Graduate Great Plains Distant Town 0.8788 18843 8747
+Aquinas College Associate Bachelor's Southeast Large City 0.521 31324 10170
+Austin Peay State University Bachelor's Graduate Southeast Mid-size City 0.8595 18852 6847
+Baptist Memorial College of Health Sciences Bachelor's Bachelor's Southeast Large City 0.463 19745 9801
+Belmont University Bachelor's Graduate Southeast Large City 0.7987 41450 8976
+Bethel University Bachelor's Graduate Southeast Distant Town 0.5103 26864 7006
+Bryan College-Dayton Bachelor's Graduate Southeast Distant Town 0.3762 29489 4331
+Carson-Newman University Bachelor's Graduate Southeast Small Suburb 0.6657 32446 6574
+Christian Brothers University Bachelor's Graduate Southeast Large City 0.4745 34413 6948
+Cleveland State Community College Certificate Associate Southeast Small City 1 10764 5111
+Cumberland University Bachelor's Graduate Southeast Fringe Town 0.473 33402 6408
+Lipscomb University Bachelor's Graduate Southeast Large City 0.527 37181 10013
+East Tennessee State University Bachelor's Graduate Southeast Small City 0.8649 22485 12462
+Fisk University Bachelor's Graduate Southeast Large City 0.3968 38893 9602
+Freed-Hardeman University Bachelor's Graduate Southeast Distant Town 0.9203 32814 6339
+Johnson University Bachelor's Graduate Southeast Fringe Rural 0.5464 19898 6145
+King University Bachelor's Graduate Southeast Small City 0.6377 36533 4357
+Lane College Bachelor's Bachelor's Southeast Small City 0.4916 17406 4813
+Le Moyne-Owen College Bachelor's Bachelor's Southeast Large City 0.2335 16427 4198
+Lee University Bachelor's Graduate Southeast Small City 0.9165 23554 5177
+Lincoln Memorial University Bachelor's Graduate Southeast Remote Town 0.6995 31241 7988
+Maryville College Bachelor's Bachelor's Southeast Large Suburb 0.7259 41481 7181
+Memphis College of Art Bachelor's Graduate Southeast Large City 0.3978 37855 8350
+University of Memphis Bachelor's Graduate Southeast Large City 0.6841 20899 8742
+Middle Tennessee State University Bachelor's Graduate Southeast Mid-size City 0.6996 17501 7418
+Milligan College Bachelor's Graduate Southeast Mid-size Suburb 0.683 36252 6433
+Motlow State Community College Associate Associate Southeast Fringe Rural 0.4226 12466 5274
+O'More College of Design Bachelor's Bachelor's Southeast Small City 0.5816 35632 7921
+Rhodes College Bachelor's Graduate Southeast Large City 0.5764 50659 14821
+Roane State Community College Associate Associate Southeast Distant Town 0.9922 13454 5680
+Sewanee-The University of the South Bachelor's Graduate Southeast Distant Rural 0.6027 46530 14960
+Southern Adventist University Bachelor's Graduate Southeast Large Suburb 0.3826 29085 9131
+Tennessee Wesleyan College Bachelor's Bachelor's Southeast Distant Town 0.713 28119 4651
+The University of Tennessee-Chattanooga Bachelor's Graduate Southeast Mid-size City 0.7757 19192 7034
+The University of Tennessee-Knoxville Bachelor's Graduate Southeast Mid-size City 0.7249 24746 20792
+The University of Tennessee-Martin Bachelor's Graduate Southeast Remote Town 0.7668 16227 7336
+Tennessee Technological University Bachelor's Graduate Southeast Remote Town 0.9316 19900 6916
+Tennessee Temple University Bachelor's Graduate Southeast Mid-size City 0.7843 23217 1889
+Trevecca Nazarene University Bachelor's Graduate Southeast Large City 0.772 30820 7133
+Tusculum College Bachelor's Graduate Southeast Distant Town 0.7225 32783 3596
+Union University Bachelor's Graduate Southeast Small City 0.7412 40415 9119
+Vanderbilt University Bachelor's Graduate Southeast Large City 0.1274 59890 76995
+Abilene Christian University Bachelor's Graduate Southwest Mid-size City 0.4894 39811 8737
+Angelo State University Bachelor's Graduate Southwest Small City 0.8049 19511 6830
+Austin College Bachelor's Graduate Southwest Small City 0.5861 45800 14009
+Baylor University Bachelor's Graduate Southwest Mid-size City 0.5747 51086 14046
+Concordia University-Texas Bachelor's Graduate Southwest Large City 0.4685 37394 5736
+Texas A & M University-Corpus Christi Bachelor's Graduate Southwest Large City 0.9258 17782 6107
+Dallas Baptist University Bachelor's Graduate Southwest Large City 0.423 32489 7945
+Dallas Christian College Bachelor's Graduate Southwest Large Suburb 0.5516 24499 5755
+University of Dallas Bachelor's Graduate Southwest Mid-size City 0.9011 47437 9425
+East Texas Baptist University Bachelor's Graduate Southwest Distant Town 0.7362 30172 7590
+Texas A & M University-Commerce Bachelor's Graduate Southwest Distant Town 0.6818 18487 6434
+Hardin-Simmons University Bachelor's Graduate Southwest Mid-size City 0.3759 32001 9644
+Houston Baptist University Bachelor's Graduate Southwest Large City 0.7318 36095 7357
+University of Houston-Downtown Bachelor's Graduate Southwest Large City 0.9509 18879 4306
+University of Houston Bachelor's Graduate Southwest Large City 0.5841 22215 7456
+Howard Payne University Bachelor's Graduate Southwest Remote Town 0.5382 32861 8101
+Huston-Tillotson University Bachelor's Graduate Southwest Large City 0.4589 25894 7991
+University of the Incarnate Word Bachelor's Graduate Southwest Large City 0.9307 34487 6728
+Lamar University Bachelor's Graduate Southwest Mid-size City 0.7682 21142 4626
+Texas A & M International University Bachelor's Graduate Southwest Mid-size City 0.4785 15272 5482
+LeTourneau University Bachelor's Graduate Southwest Small City 0.4066 37031 7550
+Lubbock Christian University Bachelor's Graduate Southwest Mid-size City 0.9489 28493 6054
+University of Mary Hardin-Baylor Bachelor's Graduate Southwest Small Suburb 0.8468 35000 8331
+McMurry University Bachelor's Bachelor's Southwest Mid-size City 0.5924 34650 8200
+Midwestern State University Bachelor's Graduate Southwest Mid-size City 0.7178 15704 8018
+University of North Texas Bachelor's Graduate Southwest Mid-size City 0.5969 18593 7571
+Northwood University-Texas Bachelor's Graduate Southwest Fringe Rural 0.2578 31642 5038
+Our Lady of the Lake University Bachelor's Graduate Southwest Large City 0.6561 33227 7872
+The University of Texas-Pan American Bachelor's Graduate Southwest Small City 0.6217 11601 6001
+Paul Quinn College Bachelor's Bachelor's Southwest Large City 0.9858 21418 2988
+Prairie Vis A & M University Bachelor's Graduate Southwest Distant Town 0.4232 16782 5864
+Rice University Bachelor's Graduate Southwest Large City 0.1674 52242 39651
+Saint Edward's University Bachelor's Graduate Southwest Large City 0.7853 43046 10387
+University of St Thomas Bachelor's Graduate Southwest Large City 0.7724 37271 11149
+Sam Houston State University Bachelor's Graduate Southwest Distant Town 0.6499 19173 4851
+Schreiner University Bachelor's Graduate Southwest Remote Town 0.9262 33631 6482
+St Mary's University Bachelor's Graduate Southwest Large City 0.5823 35160 12291
+Southern Methodist University Bachelor's Graduate Southwest Large Suburb 0.507 57947 15884
+Southwestern University Bachelor's Bachelor's Southwest Large Suburb 0.5217 46789 14025
+Stephen F Austin State University Bachelor's Graduate Southwest Fringe Rural 0.5687 21909 6535
+Texas State University Bachelor's Graduate Southwest Small Suburb 0.7508 19721 6379
+Southwestern Adventist University Bachelor's Graduate Southwest Fringe Town 0.5392 27907 9043
+Sul Ross State University Bachelor's Graduate Southwest Remote Town 0.522 17254 6455
+Tarleton State University Bachelor's Graduate Southwest Remote Town 0.5682 17709 6065
+Texas A & M University-Kingsville Bachelor's Graduate Southwest Distant Town 0.881 19721 6081
+Texas A & M University-College Station Bachelor's Graduate Southwest Small City 0.6947 20819 13297
+The University of Texas at Arlington Bachelor's Graduate Southwest Large City 0.5998 21420 6782
+The University of Texas at Austin Bachelor's Graduate Southwest Large City 0.4019 25176 16906
+The University of Texas at Dallas Bachelor's Graduate Southwest Mid-size City 0.5857 22381 9848
+The University of Texas at El Paso Bachelor's Graduate Southwest Large City 0.9981 15272 6854
+The University of Texas at Tyler Bachelor's Graduate Southwest Small City 0.8203 19366 8111
+Texas Christian University Bachelor's Graduate Southwest Large City 0.4739 48189 14422
+Texas Lutheran University Bachelor's Graduate Southwest Fringe Town 0.5087 35480 7862
+The University of Texas of the Permian Basin Bachelor's Graduate Southwest Mid-size City 0.8401 14292 8991
+The University of Texas at San Antonio Bachelor's Graduate Southwest Large City 0.7327 18936 6338
+Texas Southern University Bachelor's Graduate Southwest Large City 0.4503 22311 9114
+Texas Tech University Bachelor's Graduate Southwest Mid-size City 0.663 20900 6813
+Texas Wesleyan University Bachelor's Graduate Southwest Large City 0.2992 30696 9982
+Texas Woman's University Bachelor's Graduate Southwest Mid-size City 0.8603 16345 6445
+Trinity University Bachelor's Graduate Southwest Large City 0.6393 46274 14743
+Wayland Baptist University Bachelor's Graduate Southwest Remote Town 0.9862 21543 6559
+West Texas A & M University Bachelor's Graduate Southwest Fringe Town 0.7403 17553 6765
+Brigham Young University-Provo Bachelor's Graduate Rocky Mountains Mid-size City 0.4942 17174 13268
+Brigham Young University-Hawaii Bachelor's Graduate Far West Fringe Town 0.3604 14544 11999
+Southern Utah University Bachelor's Graduate Rocky Mountains Remote Town 0.5709 18042 5519
+Utah State University Bachelor's Graduate Rocky Mountains Small City 0.9674 16020 8255
+University of Utah Bachelor's Graduate Rocky Mountains Mid-size City 0.8174 19048 12835
+Westminster College Bachelor's Graduate Rocky Mountains Mid-size City 0.7517 37990 10682
+Castleton State College Bachelor's Graduate New England Distant Town 0.9205 20799 7411
+Champlain College Bachelor's Graduate New England Small City 0.7079 44636 8683
+Johnson State College Bachelor's Graduate New England Distant Rural 0.9688 20404 8333
+Lyndon State College Bachelor's Graduate New England Remote Town 0.9934 19178 7553
+Middlebury College Bachelor's Graduate New England Distant Town 0.1716 59200 23214
+Norwich University Bachelor's Graduate New England Distant Town 0.6349 47341 6331
+Saint Michael's College Bachelor's Graduate New England Mid-size Suburb 0.7511 48894 10627
+College of St Joseph Bachelor's Graduate New England Remote Town 0.6831 33200 6464
+Southern Vermont College Bachelor's Bachelor's New England Fringe Rural 0.994 33229 4220
+Vermont Technical College Associate Bachelor's New England Remote Rural 0.8257 22937 14564
+University of Vermont Bachelor's Graduate New England Small City 0.7755 27788 16066
+Averett University Bachelor's Graduate Southeast Remote Town 0.6329 36240 11453
+Bluefield College Bachelor's Bachelor's Southeast Remote Town 0.5729 33668 4345
+Bridgewater College Bachelor's Bachelor's Southeast Small Suburb 0.5493 41180 5849
+College of William and Mary Bachelor's Graduate Southeast Small Suburb 0.3321 25938 13265
+Regent University Bachelor's Graduate Southeast Large City 0.8514 26825 8194
+Christopher Newport University Bachelor's Graduate Southeast Mid-size City 0.5902 24696 8747
+Jefferson College of Health Sciences Bachelor's Graduate Southeast Small City 0.4106 31688 10877
+Emory & Henry College Bachelor's Graduate Southeast Fringe Rural 0.6572 40866 10417
+Eastern Mennonite University Bachelor's Graduate Southeast Small City 0.6505 38009 11464
+Ferrum College Bachelor's Bachelor's Southeast Distant Rural 0.7411 38620 6349
+George Mason University Bachelor's Graduate Southeast Large Suburb 0.6203 22332 12122
+Hampden-Sydney College Bachelor's Bachelor's Southeast Distant Rural 0.5486 49139 12547
+Hampton University Bachelor's Graduate Southeast Mid-size City 0.3605 32358 8966
+Hollins University Bachelor's Graduate Southeast Mid-size Suburb 0.693 46049 14451
+James Madison University Bachelor's Graduate Southeast Small City 0.6356 21980 8099
+Liberty University Bachelor's Graduate Southeast Small City 0.2165 31344 2167
+Longwood University Bachelor's Graduate Southeast Remote Town 0.8136 23707 7857
+Lynchburg College Bachelor's Graduate Southeast Small City 0.6369 41818 10202
+Mary Baldwin College Bachelor's Graduate Southeast Small City 0.8835 39432 8325
+University of Mary Washington Bachelor's Graduate Southeast Mid-size Suburb 0.8096 21862 6875
+Marymount University Bachelor's Graduate Southeast Mid-size City 0.8252 36832 8319
+Norfolk State University Bachelor's Graduate Southeast Mid-size City 0.6499 18837 7209
+Old Dominion University Bachelor's Graduate Southeast Mid-size City 0.7679 20531 8097
+Radford University Bachelor's Graduate Southeast Small City 0.7831 19987 7821
+Randolph-Macon College Bachelor's Bachelor's Southeast Large Suburb 0.637 45842 9585
+Randolph College Bachelor's Graduate Southeast Small City 0.8343 44330 15081
+Richard Bland College of the College of William and Mary Associate Associate Southeast Fringe Rural 0.5572 13460 4709
+University of Richmond Bachelor's Graduate Southeast Mid-size City 0.3116 55980 18204
+Roanoke College Bachelor's Bachelor's Southeast Mid-size Suburb 0.7281 48559 10452
+Shenandoah University Bachelor's Graduate Southeast Small City 0.8456 41369 8657
+Southern Virginia University Bachelor's Bachelor's Southeast Distant Town 0.9987 30068 5646
+Sweet Briar College Bachelor's Graduate Southeast Mid-size Suburb 0.8431 46966 22225
+The University of Virginia's College at Wise Bachelor's Bachelor's Southeast Distant Town 0.7449 18365 7137
+Virginia Commonwealth University Bachelor's Graduate Southeast Mid-size City 0.6913 25291 12826
+University of Virginia-Main Campus Bachelor's Graduate Southeast Small City 0.2999 25255 16577
+Virginia Military Institute Bachelor's Bachelor's Southeast Distant Town 0.4732 24643 12475
+Virginia State University Bachelor's Graduate Southeast Large Suburb 0.9459 20075 8275
+Virginia Union University Bachelor's Graduate Southeast Mid-size City 0.5848 26885 5953
+Virginia Wesleyan College Bachelor's Bachelor's Southeast Large City 0.9311 41010 9280
+Washington and Lee University Bachelor's Graduate Southeast Distant Town 0.1843 56616 28860
+Central Washington University Bachelor's Graduate Far West Distant Town 0.8216 21401 7903
+Eastern Washington University Bachelor's Graduate Far West Fringe Town 0.7967 19831 6495
+The Evergreen State College Bachelor's Graduate Far West Mid-size Suburb 0.9709 21433 8580
+Gonzaga University Bachelor's Graduate Far West Mid-size City 0.6651 46475 9687
+Northwest University Bachelor's Graduate Far West Large Suburb 0.972 34608 6881
+Pacific Lutheran University Bachelor's Graduate Far West Large Suburb 0.7676 45299 11672
+University of Puget Sound Bachelor's Graduate Far West Mid-size City 0.8522 53785 17749
+Saint Martin's University Bachelor's Graduate Far West Mid-size Suburb 0.876 40458 7281
+Seattle Pacific University Bachelor's Graduate Far West Large City 0.7214 45125 10210
+Seattle University Bachelor's Graduate Far West Large City 0.7323 50610 15139
+Walla Walla University Bachelor's Graduate Far West Small Suburb 0.9286 34747 10596
+Washington State University Bachelor's Graduate Far West Distant Town 0.8208 26292 9130
+University of Washington-Seattle Campus Bachelor's Graduate Far West Large City 0.5523 24606 23645
+Western Washington University Bachelor's Graduate Far West Small City 0.8371 22009 8298
+Whitman College Bachelor's Bachelor's Far West Small City 0.5696 54865 18262
+Alderson Broaddus University Bachelor's Graduate Southeast Distant Town 0.4321 33057 7403
+Appalachian Bible College Bachelor's Graduate Southeast Fringe Rural 0.9091 22543 3806
+Bethany College Bachelor's Graduate Southeast Fringe Rural 0.4948 38226 7845
+Bluefield State College Bachelor's Bachelor's Southeast Remote Town 0.4267 14940 5800
+University of Charleston Bachelor's Graduate Southeast Small City 0.6905 32147 6862
+Concord University Bachelor's Graduate Southeast Remote Town 0.457 17146 5358
+Davis & Elkins College Bachelor's Bachelor's Southeast Remote Town 0.5734 32812 7794
+Fairmont State University Bachelor's Graduate Southeast Distant Town 0.6649 14710 6107
+Glenville State College Bachelor's Bachelor's Southeast Remote Town 0.7446 19910 6082
+Marshall University Bachelor's Graduate Southeast Small City 0.7868 16361 8185
+Ohio Valley University Bachelor's Graduate Southeast Small City 0.3639 27759 6762
+Shepherd University Bachelor's Graduate Southeast Fringe Town 0.8102 14846 5784
+West Virginia State University Bachelor's Graduate Southeast Mid-size Suburb 0.4478 13756 6569
+West Liberty University Bachelor's Graduate Southeast Fringe Rural 0.7122 18406 4959
+West Virginia University Institute of Technology Bachelor's Bachelor's Southeast Fringe Rural 0.5131 14465 7477
+West Virginia Wesleyan College Bachelor's Graduate Southeast Remote Town 0.7696 38796 6662
+West Virginia University Bachelor's Graduate Southeast Small City 0.851 16898 11544
+Wheeling Jesuit University Bachelor's Graduate Southeast Small City 0.6892 34213 6856
+Alverno College Bachelor's Graduate Great Lakes Large City 0.7887 30496 7404
+Beloit College Bachelor's Bachelor's Great Lakes Small City 0.6769 48236 13624
+Cardinal Stritch University Bachelor's Graduate Great Lakes Large Suburb 0.8423 37563 5250
+Carroll University Bachelor's Graduate Great Lakes Small City 0.8114 37963 5523
+Carthage College Bachelor's Graduate Great Lakes Mid-size Suburb 0.7018 44910 9002
+Concordia University-Wisconsin Bachelor's Graduate Great Lakes Large Suburb 0.6992 36660 7156
+Edgewood College Bachelor's Graduate Great Lakes Mid-size City 0.7656 35645 7703
+Lakeland College Bachelor's Graduate Great Lakes Fringe Rural 0.6621 32706 4730
+Maranatha Baptist University Bachelor's Graduate Great Lakes Fringe Town 0.7146 23879 4389
+Marian University Bachelor's Graduate Great Lakes Small City 0.7561 33656 6075
+Marquette University Bachelor's Graduate Great Lakes Large City 0.5745 46649 9995
+Milwaukee School of Engineering Bachelor's Graduate Great Lakes Large City 0.6839 43747 10975
+Mount Mary University Bachelor's Graduate Great Lakes Large City 0.5397 33166 7405
+Northland College Bachelor's Bachelor's Great Lakes Remote Town 0.5907 39123 8863
+Ripon College Bachelor's Bachelor's Great Lakes Distant Town 0.7515 40966 11599
+Saint Norbert College Bachelor's Graduate Great Lakes Mid-size Suburb 0.8194 40204 7853
+Silver Lake College of the Holy Family Bachelor's Graduate Great Lakes Distant Town 0.6 33274 9832
+University of Wisconsin Colleges Associate Associate Great Lakes Mid-size City 0.9899 13105 4452
+Viterbo University Bachelor's Graduate Great Lakes Small City 0.706 32956 6562
+University of Wisconsin-Whitewater Bachelor's Graduate Great Lakes Distant Town 0.8468 16107 5681
+University of Wisconsin-Eau Claire Bachelor's Graduate Great Lakes Small City 0.7646 18066 6718
+University of Wisconsin-Green Bay Bachelor's Graduate Great Lakes Mid-size City 0.8476 16878 5901
+University of Wisconsin-La Crosse Bachelor's Graduate Great Lakes Small City 0.72 17896 6370
+Wisconsin Lutheran College Bachelor's Graduate Great Lakes Large City 0.6356 34192 9405
+University of Wisconsin-Oshkosh Bachelor's Graduate Great Lakes Small City 0.8134 16935 7138
+University of Wisconsin-Parkside Bachelor's Graduate Great Lakes Mid-size Suburb 0.7547 15218 6228
+University of Wisconsin-Stout Bachelor's Graduate Great Lakes Distant Town 0.8927 18192 7292
+University of Wisconsin-Superior Bachelor's Graduate Great Lakes Mid-size Suburb 0.8927 16953 8392
+University of Wisconsin-Madison Bachelor's Graduate Great Lakes Mid-size City 0.6792 23718 14278
+University of Wisconsin-Milwaukee Bachelor's Graduate Great Lakes Large City 0.8608 21203 8301
+University of Wisconsin-Platteville Bachelor's Graduate Great Lakes Distant Town 0.9647 16824 5363
+University of Wisconsin-River Falls Bachelor's Graduate Great Lakes Distant Town 0.8663 16682 6329
+University of Wisconsin-Stevens Point Bachelor's Graduate Great Lakes Distant Town 0.8285 16427 6380
+University of Wyoming Bachelor's Graduate Rocky Mountains Remote Town 0.9569 17652 13902
+Stanford University Bachelor's Graduate Far West Large Suburb 0.0569 58408 88200
+Purdue University-Main Campus Bachelor's Graduate Great Lakes Mid-size Suburb 0.6042 23109 15477
+California State University-San Marcos Bachelor's Graduate Far West Large Suburb 0.6251 20386 8553
+University of Washington-Bothell Campus Bachelor's Graduate Far West Large Suburb 0.7568 22800 5628
+University of Washington-Tacoma Campus Bachelor's Graduate Far West Mid-size City 0.8523 22185 5763
+Watkins College of Art Design & Film Bachelor's Bachelor's Southeast Large City 0.3498 33979 9605
+California State University-Monterey Bay Bachelor's Graduate Far West Mid-size Suburb 0.444 18479 8677
+Florida Gulf Coast University Bachelor's Graduate Southeast Large Suburb 0.6579 18097 6606
+University of Connecticut-Tri-Campus Bachelor's Graduate New England Mid-size Suburb 0.4207 13099 3882
+University of Connecticut-Avery Point Bachelor's Graduate New England Mid-size Suburb 0.594 12946 11730
+University of Connecticut-Stamford Bachelor's Graduate New England Mid-size City 0.4107 13028 4958
+California State University-Channel Islands Bachelor's Graduate Far West Mid-size Suburb 0.6443 22570 12026
+DigiPen Institute of Technology Bachelor's Graduate Far West Small City 0.6635 37848 5998
+Neumont University Bachelor's Bachelor's Rocky Mountains Mid-size City 0.7997 37379 3298
+Birmingham Southern College
+Huntingdon College
+Judson College
+Southeastern Bible College
+Stillman College
+Arizona Christian University
+Lyon College
+Central Baptist College
+Ouachita Baptist University
+University of the Ozarks
+Williams Baptist College
+University of Arkansas-Fort Smith
+Harvey Mudd College
+Menlo College
+Pomona College
+Thomas Aquinas College
+Fort Lewis College
+The Baptist College of Florida
+Eckerd College
+Edward Waters College
+Flagler College-St Augustine
+Florida College
+Abraham Baldwin Agricultural College
+Point University
+Brewton-Parker College
+College of Coastal Georgia
+Gordon State College
+Morehouse College
+Paine College
+Spelman College
+Toccoa Falls College
+Truett-McConnell College
+Young Harris College
+University of Hawaii-West Oahu
+Boise Bible College
+Lewis-Clark State College
+Brigham Young University-Idaho
+Blackburn College
+Eureka College
+Illinois Wesleyan University
+Illinois College
+Lincoln College
+MacMurray College
+Monmouth College
+Trinity Christian College
+DePauw University
+Franklin College
+Hanover College
+Holy Cross College
+Saint Mary's College
+Central College
+Cornell College
+Grinnell College
+Iowa Wesleyan College
+Luther College
+Northwestern College
+Waldorf College
+Wartburg College
+Bethany College
+Bethel College-North Newton
+Central Christian College of Kansas
+Manhattan Christian College
+McPherson College
+Sterling College
+Alice Lloyd College
+Berea College
+Centre College
+Kentucky Wesleyan College
+Transylvania University
+Dillard University
+Louisiana State University-Alexandria
+Bowdoin College
+Colby College
+University of Maine at Fort Kent
+University of Maine at Machias
+Amherst College
+Becker College
+Dean College
+Stonehill College
+Wellesley College
+Adrian College
+Albion College
+Alma College
+Hope College
+Kalamazoo College
+Finlandia University
+Bethany Lutheran College
+Carleton College
+Gustavus Adolphus College
+Macalester College
+University of Minnesota-Crookston
+University of Minnesota-Morris
+North Central University
+Oak Hills Christian College
+College of Saint Benedict
+St Olaf College
+Rust College
+Tougaloo College
+Central Methodist University-College of Liberal Arts and Sciences
+Cottey College
+Culver-Stockton College
+Kansas City Art Institute
+Saint Louis Christian College
+Westminster College
+William Jewell College
+Carroll College
+Doane College-Crete
+York College
+Saint Anselm College
+Barnard College
+Hamilton College
+Hartwick College
+Maria College of Albany
+Marymount Manhattan College
+Paul Smiths College of Arts and Science
+Davis College
+SUNY College of Technology at Alfred
+SUNY College of Agriculture and Technology at Cobleskill
+Farmingdale State College
+Morrisville State College
+Union College
+Vassar College
+Wells College
+Belmont Abbey College
+Brevard College
+Cabarrus College of Health Sciences
+Davidson College
+Guilford College
+Johnson C Smith University
+Livingstone College
+Mount Olive College
+North Carolina Wesleyan College
+William Peace University
+Mid-Atlantic Christian University
+Saint Augustine's University
+St Andrews University
+Dickinson State University
+Cleveland Institute of Art
+Denison University
+Kenyon College
+Ohio Wesleyan University
+Wittenberg University
+The College of Wooster
+Bacone College
+Oklahoma Panhandle State University
+Rogers State University
+University of Science and Arts of Oklahoma
+Linfield College-McMinnville Campus
+Allegheny College
+Dickinson College
+Gettysburg College
+Haverford College
+Lafayette College
+Lycoming College
+Muhlenberg College
+Pennsylvania State University-Penn State New Kensington
+Pennsylvania State University-Penn State Shenango
+Pennsylvania State University-Penn State Wilkes-Barre
+Pennsylvania State University-Penn State Worthington Scranton
+Pennsylvania State University-Penn State Altoona
+Pennsylvania State University-Penn State Beaver
+Pennsylvania State University-Penn State Brandywine
+Pennsylvania State University-Penn State Dubois
+Pennsylvania State University-Penn State Fayette- Eberly
+Pennsylvania State University-Penn State Hazleton
+Pennsylvania State University-Penn State Greater Allegheny
+Pennsylvania State University-Penn State Mont Alto
+Pennsylvania State University-Penn State Schuylkill
+University of Pittsburgh-Bradford
+University of Pittsburgh-Greensburg
+University of Pittsburgh-Johnstown
+Susquehanna University
+Swarthmore College
+Thiel College
+Ursinus College
+Coker College
+Limestone College
+Newberry College
+Presbyterian College
+University of South Carolina-Beaufort
+Wofford College
+Presentation College
+Aquinas College
+Baptist Memorial College of Health Sciences
+Lane College
+Le Moyne-Owen College
+Maryville College
+O'More College of Design
+Tennessee Wesleyan College
+McMurry University
+Paul Quinn College
+Southwestern University
+Southern Vermont College
+Vermont Technical College
+Bluefield College
+Bridgewater College
+Ferrum College
+Hampden-Sydney College
+Randolph-Macon College
+Roanoke College
+Southern Virginia University
+The University of Virginia's College at Wise
+Virginia Military Institute
+Virginia Wesleyan College
+Whitman College
+Bluefield State College
+Davis & Elkins College
+Glenville State College
+West Virginia University Institute of Technology
+Beloit College
+Northland College
+Ripon College
+Watkins College of Art Design & Film
+Neumont University
+Geography: Average Admission Rate
+Small Suburb: 0.652148
+Small City: 0.665384
+Mid-size Suburb: 0.709325
+Remote Rural: 0.695653
+Distant Rural: 0.64555
+Large City: 0.606593
+Remote Town: 0.687215
+Large Suburb: 0.63941
+Distant Town: 0.66427
+Fringe Rural: 0.640718
+Mid-size City: 0.628518
+Fringe Town: 0.627744
+Albany College of Pharmacy and Health Sciences
+MCPHS University
+University of the Sciences
+Massachusetts Institute of Technology
+Stevens Institute of Technology
