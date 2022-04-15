@@ -1,8 +1,5 @@
 #include "classes.hpp"
 
-
-// ?? TODO: Test delete book, delete user
-
 void deploy(){
 
     while(!close){
@@ -11,9 +8,6 @@ void deploy(){
 
     cout<<"\nClosing the program...\nGoodbye! :)\n";
     return;
-    
-
-    deploy();
 }
 
 int main(){
