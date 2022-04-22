@@ -2,7 +2,7 @@ This assignment was based on the bash commands `sed/grep/awk`, although other co
 
 To run the script-
 ```bash
-./lab.sh input.csv output.csv
+./lab.sh input.csv output.txt
 ```
 
 *Note: Please ensure that the input file has all the necessary entries as mentioned in the [assignment](./Assignment.pdf).*
